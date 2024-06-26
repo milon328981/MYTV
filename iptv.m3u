@@ -183,8 +183,11 @@ http://cf.hi-ott.me:80/live/iptvore/71536da247/441085.m3u8
 http://cf.hi-ott.me:80/live/iptvore/71536da247/441084.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BENGALI: STAR JALSHA MOVIES HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/STAR-JALSHA-MOVIES-HD.png" group-title="ASIA| BENGALI",BENGALI: STAR JALSHA MOVIES HD
 http://cf.hi-ott.me:80/live/iptvore/71536da247/441083.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BENGALI: STAR JALSHA HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/starjalsha.png" group-title="ASIA| BENGALI",BENGALI: STAR JALSHA HD
+#EXTINF:-1 tvg-id="" tvg-name="BENGALI: STAR JALSHA HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/starjalsha.png" group-title="ASIA| BENGALI",BENGALI: STAR JALSHA 
 http://cf.hi-ott.me:80/live/iptvore/71536da247/441082.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BENGALI: STAR JALSHA HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/starjalsha.png" group-title="ASIA| BENGALI",BENGALI: STAR JALSHA HD
+http://cf.cdn8k.me:80/live/iptvload/5rhd8dyygy/441082.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="BENGALI: AAKAASH BANGLA" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/AAKASH-BANGLA.png" group-title="ASIA| BENGALI",BENGALI: AAKAASH BANGLA
 http://cf.hi-ott.me:80/live/iptvore/71536da247/441073.m3u8
 #EXTINF:-1 tvg-id="24Ghante.in" tvg-name="BENGALI: 24 GHANTA" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/24-GHANTA.png" group-title="ASIA| BENGALI",BENGALI: 24 GHANTA
