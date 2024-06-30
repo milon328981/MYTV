@@ -699,29 +699,21 @@ http://cf.cdn8k.me:80/live/iptvload/fl89hl1nns/441109.m3u8
 #EXTINF:-1 tvg-id="SonySIX.in" tvg-name="SPORTS: STAR SPORTS KANNADA" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/SONY-SIX.png" group-title="ASIA| SPORTS",SPORTS: STAR SPORTS KANNADA
 http://cf.cdn8k.me:80/live/iptvload/fl89hl1nns/441108.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in" tvg-name="SPORTS: STAR SPORTS 1 ENGLISH HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/STAR-SPORTS-1-HD.jpg" group-title="ASIA| SPORTS",SPORTS: STAR SPORTS 1 ENGLISH HD
-http://cf.cdn8k.me:80/live/iptvload/fl89hl1nns/441107.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=293&uid=3570&deviceMac=00:1A:79:61:DC:78
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="SPORTS: STAR SPORTS 1 ENGLISH HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/STAR-SPORTS-1-HD.jpg" group-title="ASIA| SPORTS",SPORTS: STAR SPORTS 1 ENGLISH HD
+http://tv.cloudcdn.me:80/live.ts?channelId=49566&uid=3570&deviceMac=00:1A:79:61:DC:78
 #EXTINF:-1 tvg-id="StarSports1Hindi.in" tvg-name="SPORTS: STAR SPORTS 1 HINDI HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/STAR-SPORTS-1-HINDI-HD.jpg" group-title="ASIA| SPORTS",SPORTS: STAR SPORTS 1 HINDI HD
-http://cf.cdn8k.me:80/live/iptvload/fl89hl1nns/441106.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=295&uid=3570&deviceMac=00:1A:79:61:DC:78
 #EXTINF:-1 tvg-id="StarSports1Hindi.in" tvg-name="SPORTS: STAR SPORTS HINDI 1" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/STAR-SPORTS-1-HINDI-HD.jpg" group-title="ASIA| SPORTS",SPORTS: STAR SPORTS HINDI 1
-http://cf.cdn8k.me:80/live/iptvload/fl89hl1nns/441105.m3u8
-#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="SPORTS: STAR SPORTS 1" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/STAR-SPORTS-1-HD.jpg" group-title="ASIA| SPORTS",SPORTS: STAR SPORTS 1
-http://cf.cdn8k.me:80/live/iptvload/fl89hl1nns/441104.m3u8
-#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="SPORTS: STAR SPORTS 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/STAR-SPORTS-2-HD.jpeg" group-title="ASIA| SPORTS",SPORTS: STAR SPORTS 2 HD
-http://cf.cdn8k.me:80/live/iptvload/fl89hl1nns/441103.m3u8
-#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="SPORTS: STAR SPORTS 2" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/STAR-SPORTS-2-HD.jpeg" group-title="ASIA| SPORTS",SPORTS: STAR SPORTS 2
-http://cf.cdn8k.me:80/live/iptvload/fl89hl1nns/441102.m3u8
-#EXTINF:-1 tvg-id="StarSports3.in" tvg-name="SPORTS: STAR SPORTS 3" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/STAR-SPORTS-3.jpeg" group-title="ASIA| SPORTS",SPORTS: STAR SPORTS 3
-http://cf.cdn8k.me:80/live/iptvload/fl89hl1nns/441101.m3u8
-#EXTINF:-1 tvg-id="StarSports3.in" tvg-name="SPORTS: STAR SPORTS 3" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/STAR-SPORTS-3-HD.jpeg" group-title="ASIA| SPORTS",SPORTS: STAR SPORTS 3
-http://cf.cdn8k.me:80/live/iptvload/fl89hl1nns/441100.m3u8
-#EXTINF:-1 tvg-id="StarSportsSelect1.in" tvg-name="SPORTS: STAR SPORTS SELECT 1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/STAR-SPORTS-SELECT-1-HD.jpg" group-title="ASIA| SPORTS",SPORTS: STAR SPORTS SELECT 1 HD
-http://cf.cdn8k.me:80/live/iptvload/fl89hl1nns/441099.m3u8
-#EXTINF:-1 tvg-id="StarSportsSelect1.in" tvg-name="SPORTS: STAR SPORTS SELECT 1" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/STAR-SPORTS-SELECT-1-HD.jpg" group-title="ASIA| SPORTS",SPORTS: STAR SPORTS SELECT 1
-http://cf.cdn8k.me:80/live/iptvload/fl89hl1nns/441098.m3u8
-#EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="SPORTS: STAR SPORTS SELECT 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/STAR-SPORTS-SELECT-2-HD.jpg" group-title="ASIA| SPORTS",SPORTS: STAR SPORTS SELECT 2 HD
-http://cf.cdn8k.me:80/live/iptvload/fl89hl1nns/441097.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=49569&uid=3570&deviceMac=00:1A:79:61:DC:78
+#EXTINF:-1 tvg-id="StarSportsSelect1.in" tvg-name="SPORTS: STAR SPORTS SELECT 1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/STAR-SPORTS-SELECT-1-HD.jpg" group-title="ASIA| SPORTS",SPORTS: STAR SPORTS 2 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=298&uid=3570&deviceMac=00:1A:79:61:DC:78
+#EXTINF:-1 tvg-id="StarSportsSelect1.in" tvg-name="SPORTS: STAR SPORTS SELECT 1" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/STAR-SPORTS-SELECT-1-HD.jpg" group-title="ASIA| SPORTS",SPORTS: STAR SPORTS 3
+http://tv.cloudcdn.me:80/live.ts?channelId=39098&uid=3570&deviceMac=00:1A:79:61:DC:78
+#EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="SPORTS: STAR SPORTS SELECT 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/STAR-SPORTS-SELECT-2-HD.jpg" group-title="ASIA| SPORTS",SPORTS: STAR SPORTS SELECT 1 HD
+
 #EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="SPORTS: STAR SPORTS SELECT 2" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/STAR-SPORTS-SELECT-2-HD.jpg" group-title="ASIA| SPORTS",SPORTS: STAR SPORTS SELECT 2
-http://cf.cdn8k.me:80/live/iptvload/fl89hl1nns/441096.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS: STAR SPORTS TAMIL" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/STAR-SPORTS-SELECT-2-HD.jpg" group-title="ASIA| SPORTS",SPORTS: STAR SPORTS TAMIL
 http://cf.cdn8k.me:80/live/iptvload/fl89hl1nns/441095.m3u8
 #EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="SPORTS: TEN 1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/TEN-1-HD.png" group-title="ASIA| SPORTS",SPORTS: TEN 1 HD
