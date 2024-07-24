@@ -1444,3 +1444,92 @@ http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/617491.m3u8
 http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/440252.m3u8
 #EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="HINDI: ZEE TV" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/in.zeetv.png" group-title="ASIA| HINDI",HINDI: ZEE TV
 http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/440250.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="#### NOW SPORT ᴴᴰ VIP ####" tvg-logo="" group-title="UK| NOW SPORT ᴴᴰ ᴳᴼᴸᴰ",#### NOW SPORT ᴴᴰ VIP ####
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/842197.m3u8
+#EXTINF:-1 tvg-id="TNTSport1.uk" tvg-name="NOW: TNT SPORTS 1 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9672.png?37309" group-title="UK| NOW SPORT ᴴᴰ ᴳᴼᴸᴰ",NOW: TNT SPORTS 1 ᴴᴰ
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/842196.m3u8
+#EXTINF:-1 tvg-id="TNTSport2.uk" tvg-name="NOW: TNT SPORTS 2 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6400.jpg?70732" group-title="UK| NOW SPORT ᴴᴰ ᴳᴼᴸᴰ",NOW: TNT SPORTS 2 ᴴᴰ
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/842195.m3u8
+#EXTINF:-1 tvg-id="TNTSport3.uk" tvg-name="NOW: TNT SPORTS 3 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6123.png?ver=73985" group-title="UK| NOW SPORT ᴴᴰ ᴳᴼᴸᴰ",NOW: TNT SPORTS 3 ᴴᴰ
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/842194.m3u8
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="NOW: TNT SPORTS 4 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6398.png?47733" group-title="UK| NOW SPORT ᴴᴰ ᴳᴼᴸᴰ",NOW: TNT SPORTS 4 ᴴᴰ
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/842193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOW: TNT SPORTS 5 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/new59352.png?77592" group-title="UK| NOW SPORT ᴴᴰ ᴳᴼᴸᴰ",NOW: TNT SPORTS 5 ᴴᴰ
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/842192.m3u8
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="NOW: SKY SPORTS NEWS ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12268.jpg?61426" group-title="UK| NOW SPORT ᴴᴰ ᴳᴼᴸᴰ",NOW: SKY SPORTS NEWS ᴴᴰ
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/842191.m3u8
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="NOW: SKY SPORT MAIN EVENT ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6441.png?64579" group-title="UK| NOW SPORT ᴴᴰ ᴳᴼᴸᴰ",NOW: SKY SPORT MAIN EVENT ᴴᴰ
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/842190.m3u8
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="NOW: SKY SPORTS PREMIER LEAGUE ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12261.png?95953" group-title="UK| NOW SPORT ᴴᴰ ᴳᴼᴸᴰ",NOW: SKY SPORTS PREMIER LEAGUE ᴴᴰ
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/842189.m3u8
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="NOW: SKY SPORTS FOOTBALL ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11978.png?73243" group-title="UK| NOW SPORT ᴴᴰ ᴳᴼᴸᴰ",NOW: SKY SPORTS FOOTBALL ᴴᴰ
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/842188.m3u8
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="NOW: SKY SPORT MIX ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6423.jpg?50848" group-title="UK| NOW SPORT ᴴᴰ ᴳᴼᴸᴰ",NOW: SKY SPORT MIX ᴴᴰ
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/842187.m3u8
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="NOW: SKY SPORTS ACTION ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12244.jpg?63382" group-title="UK| NOW SPORT ᴴᴰ ᴳᴼᴸᴰ",NOW: SKY SPORTS ACTION ᴴᴰ
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/842186.m3u8
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="NOW: SKY SPORTS ARENA ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12258.png?7886" group-title="UK| NOW SPORT ᴴᴰ ᴳᴼᴸᴰ",NOW: SKY SPORTS ARENA ᴴᴰ
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/842185.m3u8
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="NOW: SKY SPORTS F1 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11977.jpg?7332" group-title="UK| NOW SPORT ᴴᴰ ᴳᴼᴸᴰ",NOW: SKY SPORTS F1 ᴴᴰ
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/842184.m3u8
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="NOW: SKY SPORTS RACING ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12265.jpg?69923" group-title="UK| NOW SPORT ᴴᴰ ᴳᴼᴸᴰ",NOW: SKY SPORTS RACING ᴴᴰ
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/842183.m3u8
+#EXTINF:-1 tvg-id="SkySportsTennis.uk" tvg-name="NOW: SKY SPORTS TENNIS ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12307.jpg?4253" group-title="UK| NOW SPORT ᴴᴰ ᴳᴼᴸᴰ",NOW: SKY SPORTS TENNIS ᴴᴰ
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/842182.m3u8
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="NOW: SKY SPORT CRICKET ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11981.jpg?73945" group-title="UK| NOW SPORT ᴴᴰ ᴳᴼᴸᴰ",NOW: SKY SPORT CRICKET ᴴᴰ
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/842181.m3u8
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="NOW: SKY SPORT GOLF ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6283.jpg?37297" group-title="UK| NOW SPORT ᴴᴰ ᴳᴼᴸᴰ",NOW: SKY SPORT GOLF ᴴᴰ
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/842180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="#### NOW SPORT SD VIP ####" tvg-logo="" group-title="UK| NOW SPORT ᴴᴰ ᴳᴼᴸᴰ",#### NOW SPORT SD VIP ####
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/855569.m3u8
+#EXTINF:-1 tvg-id="TNTSport1.uk" tvg-name="NOW: TNT SPORTS 1 SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9672.png?32361" group-title="UK| NOW SPORT ᴴᴰ ᴳᴼᴸᴰ",NOW: TNT SPORTS 1 SD
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/842179.m3u8
+#EXTINF:-1 tvg-id="TNTSport2.uk" tvg-name="NOW: TNT SPORTS 2 SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6400.jpg?89683" group-title="UK| NOW SPORT ᴴᴰ ᴳᴼᴸᴰ",NOW: TNT SPORTS 2 SD
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/842178.m3u8
+#EXTINF:-1 tvg-id="TNTSport3.uk" tvg-name="NOW: TNT SPORTS 3 SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6123.png?71104" group-title="UK| NOW SPORT ᴴᴰ ᴳᴼᴸᴰ",NOW: TNT SPORTS 3 SD
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/842177.m3u8
+#EXTINF:-1 tvg-id="TNTSport4.uk" tvg-name="NOW: TNT SPORTS 4 SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6398.png?73869" group-title="UK| NOW SPORT ᴴᴰ ᴳᴼᴸᴰ",NOW: TNT SPORTS 4 SD
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/842176.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOW: TNT SPORTS 5 SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11359.png?50945" group-title="UK| NOW SPORT ᴴᴰ ᴳᴼᴸᴰ",NOW: TNT SPORTS 5 SD
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/842175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="#### NOW SPORT ᴿᴬᵂ ᴳᴼᴸᴰ ####" tvg-logo="" group-title="UK| NOW SPORT ᴿᴬᵂ ᴳᴼᴸᴰ",#### NOW SPORT ᴿᴬᵂ ᴳᴼᴸᴰ ####
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/855568.m3u8
+#EXTINF:-1 tvg-id="TNTSport1.uk" tvg-name="NOW: TNT SPORTS 1 ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9672.png?25482" group-title="UK| NOW SPORT ᴿᴬᵂ ᴳᴼᴸᴰ",NOW: TNT SPORTS 1 ᴿᴬᵂ
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/842174.m3u8
+#EXTINF:-1 tvg-id="TNTSport2.uk" tvg-name="NOW: TNT SPORTS 2 ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6400.jpg?49689" group-title="UK| NOW SPORT ᴿᴬᵂ ᴳᴼᴸᴰ",NOW: TNT SPORTS 2 ᴿᴬᵂ
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/842173.m3u8
+#EXTINF:-1 tvg-id="TNTSport3.uk" tvg-name="NOW: TNT SPORTS 3 ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6123.png?55266" group-title="UK| NOW SPORT ᴿᴬᵂ ᴳᴼᴸᴰ",NOW: TNT SPORTS 3 ᴿᴬᵂ
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/842172.m3u8
+#EXTINF:-1 tvg-id="TNTSport4.uk" tvg-name="NOW: TNT SPORTS 4 ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6398.png?29488" group-title="UK| NOW SPORT ᴿᴬᵂ ᴳᴼᴸᴰ",NOW: TNT SPORTS 4 ᴿᴬᵂ
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/842171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOW: TNT SPORTS 5 ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11359.png?50945" group-title="UK| NOW SPORT ᴿᴬᵂ ᴳᴼᴸᴰ",NOW: TNT SPORTS 5 ᴿᴬᵂ
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/842170.m3u8
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="NOW: SKY SPORTS NEWS ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11972.png?30204" group-title="UK| NOW SPORT ᴿᴬᵂ ᴳᴼᴸᴰ",NOW: SKY SPORTS NEWS ᴿᴬᵂ
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/855567.m3u8
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="NOW: SKY SPORTS MAIN EVENT ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12232.jpg?94884" group-title="UK| NOW SPORT ᴿᴬᵂ ᴳᴼᴸᴰ",NOW: SKY SPORTS MAIN EVENT ᴿᴬᵂ
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/855566.m3u8
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="NOW: SKY SPORTS PREMIER LEAGUE ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12261.png?41785" group-title="UK| NOW SPORT ᴿᴬᵂ ᴳᴼᴸᴰ",NOW: SKY SPORTS PREMIER LEAGUE ᴿᴬᵂ
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/855565.m3u8
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="NOW: SKY SPORTS FOOTBALL ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11978.png?3833" group-title="UK| NOW SPORT ᴿᴬᵂ ᴳᴼᴸᴰ",NOW: SKY SPORTS FOOTBALL ᴿᴬᵂ
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/855564.m3u8
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="NOW: SKY SPORTS MIX ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12262.jpg?56129" group-title="UK| NOW SPORT ᴿᴬᵂ ᴳᴼᴸᴰ",NOW: SKY SPORTS MIX ᴿᴬᵂ
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/855563.m3u8
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="NOW: SKY SPORTS ACTION ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12244.jpg?68063" group-title="UK| NOW SPORT ᴿᴬᵂ ᴳᴼᴸᴰ",NOW: SKY SPORTS ACTION ᴿᴬᵂ
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/855562.m3u8
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="NOW: SKY SPORTS ARENA ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12258.png?23039" group-title="UK| NOW SPORT ᴿᴬᵂ ᴳᴼᴸᴰ",NOW: SKY SPORTS ARENA ᴿᴬᵂ
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/855561.m3u8
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="NOW: SKY SPORTS F1 ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11977.jpg?40277" group-title="UK| NOW SPORT ᴿᴬᵂ ᴳᴼᴸᴰ",NOW: SKY SPORTS F1 ᴿᴬᵂ
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/855560.m3u8
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="NOW: SKY SPORTS CRICKET ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11981.jpg?35136" group-title="UK| NOW SPORT ᴿᴬᵂ ᴳᴼᴸᴰ",NOW: SKY SPORTS CRICKET ᴿᴬᵂ
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/855559.m3u8
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="NOW: SKY SPORTS GOLF ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12243.jpg?96305" group-title="UK| NOW SPORT ᴿᴬᵂ ᴳᴼᴸᴰ",NOW: SKY SPORTS GOLF ᴿᴬᵂ
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/855558.m3u8
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="NOW: SKY SPORTS RACING ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12265.jpg?60602" group-title="UK| NOW SPORT ᴿᴬᵂ ᴳᴼᴸᴰ",NOW: SKY SPORTS RACING ᴿᴬᵂ
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/855557.m3u8
+#EXTINF:-1 tvg-id="SkySportsTennis.uk" tvg-name="NOW: SKY SPORTS TENNIS ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12307.jpg?94202" group-title="UK| NOW SPORT ᴿᴬᵂ ᴳᴼᴸᴰ",NOW: SKY SPORTS TENNIS ᴿᴬᵂ
+http://cf.cdn8k.me:80/live/iptvload/w0nlv3use2/855556.m3u8
