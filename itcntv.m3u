@@ -1,691 +1,926 @@
-#EXTINF:-1 tvg-ID="" tvg-name="MY: Astro SuperSport 1" tvg-logo="" group-title="Malaysia",MY: Astro SuperSport 1
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/36204.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: Astro SuperSport 2" tvg-logo="" group-title="Malaysia",MY: Astro SuperSport 2
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/36205.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: Astro SuperSport 3" tvg-logo="" group-title="Malaysia",MY: Astro SuperSport 3
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/36206.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: Astro SuperSport 4" tvg-logo="" group-title="Malaysia",MY: Astro SuperSport 4
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/36207.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: Astro SuperSport 5" tvg-logo="" group-title="Malaysia",MY: Astro SuperSport 5
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/36969.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: Astro SuperSport Arena" tvg-logo="" group-title="Malaysia",MY: Astro SuperSport Arena
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/36968.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: Astro SuperSport Arena 2" tvg-logo="" group-title="Malaysia",MY: Astro SuperSport Arena 2
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/36967.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports 01" tvg-logo="http://filedb.me/picons/other/bein-sports-1-hz-mea.png" group-title="BeIn Sports Mena",AR: BeIN Sports 01
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/18371.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports 02" tvg-logo="http://filedb.me/picons/other/bein-sports-2-hz-mea.png" group-title="BeIn Sports Mena",AR: BeIN Sports 02
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/18368.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports 03" tvg-logo="http://filedb.me/picons/other/bein-sports-3-hz-mea.png" group-title="BeIn Sports Mena",AR: BeIN Sports 03
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/18369.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports 04" tvg-logo="http://filedb.me/picons/other/bein-sports-4-hz-mea.png" group-title="BeIn Sports Mena",AR: BeIN Sports 04
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/18370.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports 05" tvg-logo="http://filedb.me/picons/other/bein-sports-5-hz-mea.png" group-title="BeIn Sports Mena",AR: BeIN Sports 05
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/18365.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports 06" tvg-logo="http://filedb.me/picons/other/bein-sports-6-hz-mea.png" group-title="BeIn Sports Mena",AR: BeIN Sports 06
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/18367.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports 07" tvg-logo="http://filedb.me/picons/other/bein-sports-7-hz-mea.png" group-title="BeIn Sports Mena",AR: BeIN Sports 07
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/18364.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports 08" tvg-logo="http://filedb.me/picons/other/bein-sports-8-hz-int.png" group-title="BeIn Sports Mena",AR: BeIN Sports 08
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/48730.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports 09" tvg-logo="http://filedb.me/picons/other/bein-sports-9-hz-int.png" group-title="BeIn Sports Mena",AR: BeIN Sports 09
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/48731.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports 10" tvg-logo="http://filedb.me/picons/other/bein-sports-10-hz-int.png" group-title="BeIn Sports Mena",AR: BeIN Sports 10
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/48727.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports 11" tvg-logo="http://filedb.me/picons/other/bein-sports-11-hz-int.png" group-title="BeIn Sports Mena",AR: BeIN Sports 11
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/48728.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports 12" tvg-logo="http://filedb.me/picons/other/bein-sports-12-hz-int.png" group-title="BeIn Sports Mena",AR: BeIN Sports 12
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/48729.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports English 1 HD" tvg-logo="http://filedb.me/picons/other/bein-sports-1-english-hz-mea.png" group-title="BeIn Sports Mena",AR: BeIN Sports English 1 HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/3683.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports English 1 HEVC" tvg-logo="http://filedb.me/picons/other/bein-sports-1-english-hz-mea.png" group-title="BeIn Sports Mena",AR: BeIN Sports English 1 HEVC
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/48744.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports English 2 HD" tvg-logo="http://filedb.me/picons/other/bein-sports-2-english-hz-mea.png" group-title="BeIn Sports Mena",AR: BeIN Sports English 2 HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/3684.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports English 2 HEVC" tvg-logo="http://filedb.me/picons/other/bein-sports-2-english-hz-mea.png" group-title="BeIn Sports Mena",AR: BeIN Sports English 2 HEVC
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/48743.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports English 3 HD" tvg-logo="http://filedb.me/picons/other/bein-sports-3-english-hz-mea.png" group-title="BeIn Sports Mena",AR: BeIN Sports English 3 HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/34356.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports English 3 HEVC" tvg-logo="http://filedb.me/picons/other/bein-sports-3-english-hz-mea.png" group-title="BeIn Sports Mena",AR: BeIN Sports English 3 HEVC
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/48742.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports MAX 01 HD" tvg-logo="http://filedb.me/picons/other/bein-sports-1-max-hz-int.png" group-title="BeIn Sports Mena",AR: BeIN Sports MAX 01 HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/48732.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports MAX 01 HEVC" tvg-logo="http://filedb.me/picons/other/bein-sports-1-max-hz-int.png" group-title="BeIn Sports Mena",AR: BeIN Sports MAX 01 HEVC
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/48745.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports MAX 02 HD" tvg-logo="http://filedb.me/picons/other/bein-sports-2-max-hz-int.png" group-title="BeIn Sports Mena",AR: BeIN Sports MAX 02 HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/48733.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports MAX 02 HEVC" tvg-logo="http://filedb.me/picons/other/bein-sports-2-max-hz-int.png" group-title="BeIn Sports Mena",AR: BeIN Sports MAX 02 HEVC
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/48746.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports MAX 03 HD" tvg-logo="http://filedb.me/picons/other/bein-sports-3-max-hz-int.png" group-title="BeIn Sports Mena",AR: BeIN Sports MAX 03 HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/48734.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports MAX 03 HEVC" tvg-logo="http://filedb.me/picons/other/bein-sports-3-max-hz-int.png" group-title="BeIn Sports Mena",AR: BeIN Sports MAX 03 HEVC
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/48747.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports MAX 04 HD" tvg-logo="http://filedb.me/picons/other/bein-sports-4-max-hz-int.png" group-title="BeIn Sports Mena",AR: BeIN Sports MAX 04 HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/48735.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports MAX 04 HEVC" tvg-logo="http://filedb.me/picons/other/bein-sports-4-max-hz-int.png" group-title="BeIn Sports Mena",AR: BeIN Sports MAX 04 HEVC
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/48748.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports MAX 05 HD" tvg-logo="http://filedb.me/picons/other/bein-sports-5-max-hz-int.png" group-title="BeIn Sports Mena",AR: BeIN Sports MAX 05 HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/48736.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports MAX 05 HEVC" tvg-logo="http://filedb.me/picons/other/bein-sports-5-max-hz-int.png" group-title="BeIn Sports Mena",AR: BeIN Sports MAX 05 HEVC
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/48749.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports MAX 06 HD" tvg-logo="http://filedb.me/picons/other/bein-sports-6-max-hz-int.png" group-title="BeIn Sports Mena",AR: BeIN Sports MAX 06 HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/48737.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports MAX 06 HEVC" tvg-logo="http://filedb.me/picons/other/bein-sports-6-max-hz-int.png" group-title="BeIn Sports Mena",AR: BeIN Sports MAX 06 HEVC
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/48750.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports NBA HD" tvg-logo="http://filedb.me/picons/other/bein-sports-nba-hz-int.png" group-title="BeIn Sports Mena",AR: BeIN Sports NBA HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/48738.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports Premium 1 HD" tvg-logo="http://filedb.me/picons/other/bein-sports-1-premium-mea.png" group-title="BeIn Sports Mena",AR: BeIN Sports Premium 1 HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/18373.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports Premium 1 HEVC" tvg-logo="http://filedb.me/picons/other/bein-sports-1-premium-mea.png" group-title="BeIn Sports Mena",AR: BeIN Sports Premium 1 HEVC
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/48739.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports Premium 2 HD" tvg-logo="http://filedb.me/picons/other/bein-sports-2-premium-mea.png" group-title="BeIn Sports Mena",AR: BeIN Sports Premium 2 HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/18372.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports Premium 2 HEVC" tvg-logo="http://filedb.me/picons/other/bein-sports-2-premium-mea.png" group-title="BeIn Sports Mena",AR: BeIN Sports Premium 2 HEVC
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/48740.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports Premium 3 HD" tvg-logo="http://filedb.me/picons/other/bein-sports-3-premium-mea.png" group-title="BeIn Sports Mena",AR: BeIN Sports Premium 3 HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/18366.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports Premium 3 HEVC" tvg-logo="http://filedb.me/picons/other/bein-sports-3-premium-mea.png" group-title="BeIn Sports Mena",AR: BeIN Sports Premium 3 HEVC
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/48741.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports Xtra 1" tvg-logo="http://filedb.me/picons/other/bein-sports-1-xtra-hz-mea.png" group-title="BeIn Sports Mena",AR: BeIN Sports Xtra 1
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/36802.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports Xtra 2" tvg-logo="http://filedb.me/picons/other/bein-sports-2-xtra-hz-mea.png" group-title="BeIn Sports Mena",AR: BeIN Sports Xtra 2
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/36803.m3u8
+#EXTINF:-1,IND-Bangla: Zee Bangla HD
+http://xtv.ooo:8080/live/milon555/milon555/245893.m3u8
+#EXTINF:-1,BD-loc: Colors Bangla
+http://xtv.ooo:8080/live/milon555/milon555/245895.m3u8
+#EXTINF:-1,IND-Bangla: Zee Bangla Cinema
+http://xtv.ooo:8080/live/milon555/milon555/245897.m3u8
+#EXTINF:-1,IND-Bangla: Star Jalsa HD
+http://xtv.ooo:8080/live/milon555/milon555/245898.m3u8
+#EXTINF:-1,IND-Bangla: Jalsa Movies HD
+http://xtv.ooo:8080/live/milon555/milon555/245900.m3u8
+#EXTINF:-1,BD-loc: Gazi TV
+http://xtv.ooo:8080/live/milon555/milon555/245901.m3u8
+#EXTINF:-1,BD-loc: Channel 9
+http://xtv.ooo:8080/live/milon555/milon555/245902.m3u8
+#EXTINF:-1,BD-loc: NEWS 24
+http://xtv.ooo:8080/live/milon555/milon555/245903.m3u8
+#EXTINF:-1,BD-loc: Masranga HD
+http://xtv.ooo:8080/live/milon555/milon555/245904.m3u8
+#EXTINF:-1,BD-LOC: ATN News
+http://xtv.ooo:8080/live/milon555/milon555/245905.m3u8
+#EXTINF:-1,IND-Bangla: SUN Bangla
+http://xtv.ooo:8080/live/milon555/milon555/245906.m3u8
+#EXTINF:-1,BD-LOC: 71banglatv
+http://xtv.ooo:8080/live/milon555/milon555/245907.m3u8
+#EXTINF:-1,BD-LOC: Asian tv
+http://xtv.ooo:8080/live/milon555/milon555/245908.m3u8
+#EXTINF:-1,BD-LOC: ATN Bangla
+http://xtv.ooo:8080/live/milon555/milon555/245909.m3u8
+#EXTINF:-1,BD-LOC: Bangla Tv
+http://xtv.ooo:8080/live/milon555/milon555/245910.m3u8
+#EXTINF:-1,BD-LOC: RTV
+http://xtv.ooo:8080/live/milon555/milon555/245911.m3u8
+#EXTINF:-1,BD-LOC: channel I
+http://xtv.ooo:8080/live/milon555/milon555/245913.m3u8
+#EXTINF:-1,BD-LOC: Dbc News
+http://xtv.ooo:8080/live/milon555/milon555/245914.m3u8
+#EXTINF:-1,BD | EKATTOR TV HD
+http://xtv.ooo:8080/live/milon555/milon555/245915.m3u8
+#EXTINF:-1,BD-LOC: independent
+http://xtv.ooo:8080/live/milon555/milon555/245916.m3u8
+#EXTINF:-1,BD-LOC: jamuna tv
+http://xtv.ooo:8080/live/milon555/milon555/245917.m3u8
+#EXTINF:-1,BD-LOC: R PLUS
+http://xtv.ooo:8080/live/milon555/milon555/245918.m3u8
+#EXTINF:-1,BD-loc: Mohona tv
+http://xtv.ooo:8080/live/milon555/milon555/245920.m3u8
+#EXTINF:-1,BD-loc: DHOOM MUSIC
+http://xtv.ooo:8080/live/milon555/milon555/245921.m3u8
+#EXTINF:-1,BD-loc: Btv world
+http://xtv.ooo:8080/live/milon555/milon555/245922.m3u8
+#EXTINF:-1,BD | BOISHAKHI TV HD
+http://xtv.ooo:8080/live/milon555/milon555/245923.m3u8
+#EXTINF:-1,BD-loc: ntv
+http://xtv.ooo:8080/live/milon555/milon555/245924.m3u8
+#EXTINF:-1,BD-loc: SOMOY tv NEWS
+http://xtv.ooo:8080/live/milon555/milon555/245925.m3u8
+#EXTINF:-1,BD-loc: Deepto tv
+http://xtv.ooo:8080/live/milon555/milon555/245927.m3u8
+#EXTINF:-1,BD-loc: Aakaash
+http://xtv.ooo:8080/live/milon555/milon555/245928.m3u8
+#EXTINF:-1,BD: Ananda TV
+http://xtv.ooo:8080/live/milon555/milon555/245929.m3u8
+#EXTINF:-1,BD-loc: BTV-
+http://xtv.ooo:8080/live/milon555/milon555/245930.m3u8
+#EXTINF:-1,BD-loc: Ruposhi Bangla
+http://xtv.ooo:8080/live/milon555/milon555/245932.m3u8
+#EXTINF:-1,BD-loc: sangeet bangla
+http://xtv.ooo:8080/live/milon555/milon555/245933.m3u8
+#EXTINF:-1,BD: GaanbAngla Tv
+http://xtv.ooo:8080/live/milon555/milon555/245935.m3u8
+#EXTINF:-1,bd-loc: Ekushey TV
+http://xtv.ooo:8080/live/milon555/milon555/245937.m3u8
+#EXTINF:-1,bd-loc: Nagorik tv
+http://xtv.ooo:8080/live/milon555/milon555/245939.m3u8
+#EXTINF:-1,bd-loc: SANGSAD BANGLADESH
+http://xtv.ooo:8080/live/milon555/milon555/245940.m3u8
+#EXTINF:-1,bd-loc: R PLUS GOLD
+http://xtv.ooo:8080/live/milon555/milon555/245941.m3u8
+#EXTINF:-1,BD | NEWS TIME TV
+http://xtv.ooo:8080/live/milon555/milon555/245942.m3u8
+#EXTINF:-1,BD: EKHON TV
+http://xtv.ooo:8080/live/milon555/milon555/245943.m3u8
+#EXTINF:-1,bd-loc: SA TV
+http://xtv.ooo:8080/live/milon555/milon555/245945.m3u8
+#EXTINF:-1,bd-loc: bijoy tv
+http://xtv.ooo:8080/live/milon555/milon555/245946.m3u8
+#EXTINF:-1,BD-Loc: channel S BD
+http://xtv.ooo:8080/live/milon555/milon555/245947.m3u8
+#EXTINF:-1,BD-Loc: Nexus TV
+http://xtv.ooo:8080/live/milon555/milon555/245949.m3u8
+#EXTINF:-1,Bd-loc: Tv9 bangla
+http://xtv.ooo:8080/live/milon555/milon555/245950.m3u8
+#EXTINF:-1,BD: MOVIE BANGLA
+http://xtv.ooo:8080/live/milon555/milon555/245951.m3u8
+#EXTINF:-1,BD: ENTER 10 BANGLA
+http://xtv.ooo:8080/live/milon555/milon555/245954.m3u8
+#EXTINF:-1,BD | DURONTO TV
+http://xtv.ooo:8080/live/milon555/milon555/245955.m3u8
+#EXTINF:-1,BD | BANGLA VISION
+http://xtv.ooo:8080/live/milon555/milon555/245957.m3u8
+#EXTINF:-1,SONY YAY!
+http://xtv.ooo:8080/live/milon555/milon555/245959.m3u8
+#EXTINF:-1,BD | NRB TV HD
+http://xtv.ooo:8080/live/milon555/milon555/245962.m3u8
+#EXTINF:-1,BD | MY TV
+http://xtv.ooo:8080/live/milon555/milon555/245964.m3u8
+#EXTINF:-1,BD | ATN MUSIC
+http://xtv.ooo:8080/live/milon555/milon555/245965.m3u8
+#EXTINF:-1,BD | DISCOVERY BANGLA
+http://xtv.ooo:8080/live/milon555/milon555/245966.m3u8
+#EXTINF:-1,NAT GEO BANGLA
+http://xtv.ooo:8080/live/milon555/milon555/245967.m3u8
+#EXTINF:-1,BD: TRAVELXP BANGLA
+http://xtv.ooo:8080/live/milon555/milon555/245968.m3u8
+#EXTINF:-1,BD: CHANNEL 24
+http://xtv.ooo:8080/live/milon555/milon555/245969.m3u8
+#EXTINF:-1,BD | SONY AATH
+http://xtv.ooo:8080/live/milon555/milon555/245989.m3u8
+#EXTINF:-1,BTV CTG
+http://xtv.ooo:8080/live/milon555/milon555/245990.m3u8
+#EXTINF:-1,ABP ANANDA
+http://xtv.ooo:8080/live/milon555/milon555/245991.m3u8
+#EXTINF:-1,NEWS 18 BANGLA
+http://xtv.ooo:8080/live/milon555/milon555/245992.m3u8
+#EXTINF:-1,JONMO BHUMI TV **
+http://xtv.ooo:8080/live/milon555/milon555/246001.m3u8
+#EXTINF:-1,BANGLA 21 TV
+http://xtv.ooo:8080/live/milon555/milon555/246003.m3u8
+#EXTINF:-1,BD | AMAR BANGLA
+http://xtv.ooo:8080/live/milon555/milon555/246007.m3u8
+#EXTINF:-1,BD-UK: ATN BANGLA
+http://xtv.ooo:8080/live/milon555/milon555/246010.m3u8
+#EXTINF:-1,BD: channel S UK
+http://xtv.ooo:8080/live/milon555/milon555/301102.m3u8
+#EXTINF:-1,IN: Republic Bangla
+http://xtv.ooo:8080/live/milon555/milon555/355824.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) Boishakhi" tvg-logo="" group-title="India - Bangala",IN: (Bangla) Boishakhi
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60555.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) BTV" tvg-logo="" group-title="India - Bangala",IN: (Bangla) BTV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60556.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) BTV World" tvg-logo="" group-title="India - Bangala",IN: (Bangla) BTV World
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60557.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) BTV World VIP" tvg-logo="" group-title="India - Bangala",IN: (Bangla) BTV World VIP
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60558.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) Channel 24" tvg-logo="" group-title="India - Bangala",IN: (Bangla) Channel 24
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60559.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) Channel I" tvg-logo="" group-title="India - Bangala",IN: (Bangla) Channel I
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60560.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) Channel I EU" tvg-logo="" group-title="India - Bangala",IN: (Bangla) Channel I EU
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60561.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) Channel S" tvg-logo="" group-title="India - Bangala",IN: (Bangla) Channel S
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60562.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) Colors" tvg-logo="" group-title="India - Bangala",IN: (Bangla) Colors
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60563.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) Colors VIP" tvg-logo="" group-title="India - Bangala",IN: (Bangla) Colors VIP
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60564.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) DBC News" tvg-logo="" group-title="India - Bangala",IN: (Bangla) DBC News
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60565.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) DD" tvg-logo="" group-title="India - Bangala",IN: (Bangla) DD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60566.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) DD FHD VIP" tvg-logo="" group-title="India - Bangala",IN: (Bangla) DD FHD VIP
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60567.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) DD VIP" tvg-logo="" group-title="India - Bangala",IN: (Bangla) DD VIP
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60568.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) Deepto HD" tvg-logo="" group-title="India - Bangala",IN: (Bangla) Deepto HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60569.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) Deshe Bideshe TV" tvg-logo="" group-title="India - Bangala",IN: (Bangla) Deshe Bideshe TV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60570.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) Dhoom HD VIP" tvg-logo="" group-title="India - Bangala",IN: (Bangla) Dhoom HD VIP
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60571.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) Dhoom Music" tvg-logo="" group-title="India - Bangala",IN: (Bangla) Dhoom Music
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60572.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) Dhoom Music VIP" tvg-logo="" group-title="India - Bangala",IN: (Bangla) Dhoom Music VIP
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60573.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) Dhoom VIP" tvg-logo="" group-title="India - Bangala",IN: (Bangla) Dhoom VIP
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60574.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) DISCOVERY CHANNEL VIP" tvg-logo="" group-title="India - Bangala",IN: (Bangla) DISCOVERY CHANNEL VIP
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60575.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) Doom Music" tvg-logo="" group-title="India - Bangala",IN: (Bangla) Doom Music
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60576.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) Ekushey TV VIP" tvg-logo="" group-title="India - Bangala",IN: (Bangla) Ekushey TV VIP
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60577.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) ETV" tvg-logo="" group-title="India - Bangala",IN: (Bangla) ETV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60578.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) HD VIP" tvg-logo="" group-title="India - Bangala",IN: (Bangla) HD VIP
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60579.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) Independent" tvg-logo="" group-title="India - Bangala",IN: (Bangla) Independent
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60580.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) Jamuna TV" tvg-logo="" group-title="India - Bangala",IN: (Bangla) Jamuna TV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60581.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) Movie" tvg-logo="" group-title="India - Bangala",IN: (Bangla) Movie
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60582.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) Music" tvg-logo="" group-title="India - Bangala",IN: (Bangla) Music
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60583.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) News 24 HD" tvg-logo="" group-title="India - Bangala",IN: (Bangla) News 24 HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60584.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) NRB TV" tvg-logo="" group-title="India - Bangala",IN: (Bangla) NRB TV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60585.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) NTV" tvg-logo="" group-title="India - Bangala",IN: (Bangla) NTV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60586.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) Rupashi VIP" tvg-logo="" group-title="India - Bangala",IN: (Bangla) Rupashi VIP
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60587.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) Sangeet HD VIP" tvg-logo="" group-title="India - Bangala",IN: (Bangla) Sangeet HD VIP
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60588.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) SATV" tvg-logo="" group-title="India - Bangala",IN: (Bangla) SATV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60589.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) SATV VIP" tvg-logo="" group-title="India - Bangala",IN: (Bangla) SATV VIP
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60590.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) Sony Aath FHD VIP" tvg-logo="" group-title="India - Bangala",IN: (Bangla) Sony Aath FHD VIP
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60591.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) Sony Aath HD VIP" tvg-logo="" group-title="India - Bangala",IN: (Bangla) Sony Aath HD VIP
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60592.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) SONY AATH VIP" tvg-logo="" group-title="India - Bangala",IN: (Bangla) SONY AATH VIP
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60593.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) Star Jalsa" tvg-logo="" group-title="India - Bangala",IN: (Bangla) Star Jalsa
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60594.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) TV UK" tvg-logo="" group-title="India - Bangala",IN: (Bangla) TV UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60595.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) Vision" tvg-logo="" group-title="India - Bangala",IN: (Bangla) Vision
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60596.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) Zee" tvg-logo="" group-title="India - Bangala",IN: (Bangla) Zee
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60597.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Bangla) Zee Cinema" tvg-logo="" group-title="India - Bangala",IN: (Bangla) Zee Cinema
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60598.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Gujarati) ABP ASMITA Gujarati" tvg-logo="" group-title="India - Gujarati",IN: (Gujarati) ABP ASMITA Gujarati
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60599.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Gujarati) COLORS" tvg-logo="" group-title="India - Gujarati",IN: (Gujarati) COLORS
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60600.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Gujarati) TV9 HD" tvg-logo="" group-title="India - Gujarati",IN: (Gujarati) TV9 HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60601.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Malayalam) Amrita" tvg-logo="" group-title="India - Malayalam",IN: (Malayalam) Amrita
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60602.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Malayalam) DD" tvg-logo="" group-title="India - Malayalam",IN: (Malayalam) DD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60603.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Malayalam) DD HD" tvg-logo="" group-title="India - Malayalam",IN: (Malayalam) DD HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60604.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Malayalam) Drisya" tvg-logo="" group-title="India - Malayalam",IN: (Malayalam) Drisya
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60605.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Malayalam) FLOWERS TV HD" tvg-logo="" group-title="India - Malayalam",IN: (Malayalam) FLOWERS TV HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60606.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Malayalam) Jaihind TV" tvg-logo="" group-title="India - Malayalam",IN: (Malayalam) Jaihind TV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60607.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Malayalam) Janam TV HD" tvg-logo="" group-title="India - Malayalam",IN: (Malayalam) Janam TV HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60608.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Malayalam) MATHRUBHUMI NEWS" tvg-logo="" group-title="India - Malayalam",IN: (Malayalam) MATHRUBHUMI NEWS
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60609.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Malayalam) MAZHAVIL MANORAMA HD" tvg-logo="" group-title="India - Malayalam",IN: (Malayalam) MAZHAVIL MANORAMA HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60610.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Malayalam) MEDIA ONE HD" tvg-logo="" group-title="India - Malayalam",IN: (Malayalam) MEDIA ONE HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60611.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Malayalam) MUZAHAL MANORAMA FHD" tvg-logo="" group-title="India - Malayalam",IN: (Malayalam) MUZAHAL MANORAMA FHD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60612.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Malayalam) NEWS 18 KERALA" tvg-logo="" group-title="India - Malayalam",IN: (Malayalam) NEWS 18 KERALA
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60613.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Malayalam) People TV" tvg-logo="" group-title="India - Malayalam",IN: (Malayalam) People TV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60614.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Malayalam) Raj Music" tvg-logo="" group-title="India - Malayalam",IN: (Malayalam) Raj Music
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60615.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Malayalam) RAJ MUSIX" tvg-logo="" group-title="India - Malayalam",IN: (Malayalam) RAJ MUSIX
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60616.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Malayalam) Reporter TV" tvg-logo="" group-title="India - Malayalam",IN: (Malayalam) Reporter TV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60617.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Malayalam) SURYA TV" tvg-logo="" group-title="India - Malayalam",IN: (Malayalam) SURYA TV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60618.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Punjabi) 9X Tashan" tvg-logo="" group-title="India - Punjabi",IN: (Punjabi) 9X Tashan
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60619.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Punjabi) Akaal Channel" tvg-logo="" group-title="India - Punjabi",IN: (Punjabi) Akaal Channel
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60620.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Punjabi) Britasia" tvg-logo="" group-title="India - Punjabi",IN: (Punjabi) Britasia
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60621.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Punjabi) ChakDE TV" tvg-logo="" group-title="India - Punjabi",IN: (Punjabi) ChakDE TV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60622.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Punjabi) CHARDIKLA TIME TV" tvg-logo="" group-title="India - Punjabi",IN: (Punjabi) CHARDIKLA TIME TV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60623.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Punjabi) DD" tvg-logo="" group-title="India - Punjabi",IN: (Punjabi) DD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60624.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Punjabi) DD 1" tvg-logo="" group-title="India - Punjabi",IN: (Punjabi) DD 1
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60625.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Punjabi) Desi Channel" tvg-logo="" group-title="India - Punjabi",IN: (Punjabi) Desi Channel
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60626.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Punjabi) Fastway TV" tvg-logo="" group-title="India - Punjabi",IN: (Punjabi) Fastway TV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60627.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Punjabi) Global" tvg-logo="" group-title="India - Punjabi",IN: (Punjabi) Global
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60628.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Punjabi) GURBANI TV" tvg-logo="" group-title="India - Punjabi",IN: (Punjabi) GURBANI TV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60629.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Punjabi) JUS" tvg-logo="" group-title="India - Punjabi",IN: (Punjabi) JUS
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60630.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Punjabi) Jus One TV" tvg-logo="" group-title="India - Punjabi",IN: (Punjabi) Jus One TV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60631.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Punjabi) NDA Channel" tvg-logo="" group-title="India - Punjabi",IN: (Punjabi) NDA Channel
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60632.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Punjabi) Pitaara" tvg-logo="" group-title="India - Punjabi",IN: (Punjabi) Pitaara
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60633.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Punjabi) Prime Asia" tvg-logo="" group-title="India - Punjabi",IN: (Punjabi) Prime Asia
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60634.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Punjabi) PTC" tvg-logo="" group-title="India - Punjabi",IN: (Punjabi) PTC
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60635.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Punjabi) PTC Chak DE" tvg-logo="" group-title="India - Punjabi",IN: (Punjabi) PTC Chak DE
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60636.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Punjabi) PTC News" tvg-logo="" group-title="India - Punjabi",IN: (Punjabi) PTC News
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60637.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Punjabi) Punjab TV" tvg-logo="" group-title="India - Punjabi",IN: (Punjabi) Punjab TV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60638.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Punjabi) Sanjh TV" tvg-logo="" group-title="India - Punjabi",IN: (Punjabi) Sanjh TV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60639.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Punjabi) Tag TV" tvg-logo="" group-title="India - Punjabi",IN: (Punjabi) Tag TV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60640.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Punjabi) Zee Punjabi- Haryana TV" tvg-logo="" group-title="India - Punjabi",IN: (Punjabi) Zee Punjabi- Haryana TV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60641.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Tamil) DISCOVERY HD" tvg-logo="" group-title="India - Tamil",IN: (Tamil) DISCOVERY HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60642.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Tamil) MK MUSIC" tvg-logo="" group-title="India - Tamil",IN: (Tamil) MK MUSIC
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60643.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Tamil) MURASU TV" tvg-logo="" group-title="India - Tamil",IN: (Tamil) MURASU TV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60644.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Tamil) NEWS 18" tvg-logo="" group-title="India - Tamil",IN: (Tamil) NEWS 18
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60645.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Tamil) PUTHUJUGAM Tamil-" tvg-logo="" group-title="India - Tamil",IN: (Tamil) PUTHUJUGAM Tamil-
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60646.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Tamil) RAJ MUSIX" tvg-logo="" group-title="India - Tamil",IN: (Tamil) RAJ MUSIX
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60647.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Tamil) SUN LIFE" tvg-logo="" group-title="India - Tamil",IN: (Tamil) SUN LIFE
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60648.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Tamil) TRAVEL XP" tvg-logo="" group-title="India - Tamil",IN: (Tamil) TRAVEL XP
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60649.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Tamil) TUNES 6" tvg-logo="" group-title="India - Tamil",IN: (Tamil) TUNES 6
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60650.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Tamil) VASANTH TV" tvg-logo="" group-title="India - Tamil",IN: (Tamil) VASANTH TV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60651.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Tamil) WIN TV" tvg-logo="" group-title="India - Tamil",IN: (Tamil) WIN TV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60652.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Tamil) Zee" tvg-logo="" group-title="India - Tamil",IN: (Tamil) Zee
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60653.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Tamil) ZEE HD" tvg-logo="" group-title="India - Tamil",IN: (Tamil) ZEE HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60654.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Telugu) CVR HEALTH" tvg-logo="" group-title="India - Telugu",IN: (Telugu) CVR HEALTH
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60655.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Telugu) CVR NEWS" tvg-logo="" group-title="India - Telugu",IN: (Telugu) CVR NEWS
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60656.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Telugu) GEMINI COMEDY" tvg-logo="" group-title="India - Telugu",IN: (Telugu) GEMINI COMEDY
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60657.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Telugu) TV9" tvg-logo="" group-title="India - Telugu",IN: (Telugu) TV9
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60658.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Telugu) TV9 NEWS" tvg-logo="" group-title="India - Telugu",IN: (Telugu) TV9 NEWS
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60659.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Telugu) V6 NEWS" tvg-logo="" group-title="India - Telugu",IN: (Telugu) V6 NEWS
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60660.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Telugu) ZEE" tvg-logo="" group-title="India - Telugu",IN: (Telugu) ZEE
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60661.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Telugu) Zee Cinema l" tvg-logo="" group-title="India - Telugu",IN: (Telugu) Zee Cinema l
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60662.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: (Telugu) Zee Ditto" tvg-logo="" group-title="India - Telugu",IN: (Telugu) Zee Ditto
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60663.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: 9X Jhakaas" tvg-logo="" group-title="India - Main",IN: 9X Jhakaas
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60664.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: 9XM" tvg-logo="" group-title="India - Main",IN: 9XM
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60665.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: 9XM Jalwa" tvg-logo="" group-title="India - Main",IN: 9XM Jalwa
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60666.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: AAJ TAK UK" tvg-logo="" group-title="India - Main",IN: AAJ TAK UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60667.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Aastha Bhajan" tvg-logo="" group-title="India - Main",IN: Aastha Bhajan
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60668.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Aastha TV" tvg-logo="" group-title="India - Main",IN: Aastha TV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60669.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: ABP News HD" tvg-logo="" group-title="India - Main",IN: ABP News HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60670.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: ABP News UK" tvg-logo="" group-title="India - Main",IN: ABP News UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60671.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Al Jazeera UK" tvg-logo="" group-title="India - Main",IN: Al Jazeera UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60672.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: AND TV HD" tvg-logo="" group-title="India - Main",IN: AND TV HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60673.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: And TV UK" tvg-logo="" group-title="India - Main",IN: And TV UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60674.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Animal Planet HD" tvg-logo="" group-title="India - Main",IN: Animal Planet HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60675.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Animal Planet UK" tvg-logo="" group-title="India - Main",IN: Animal Planet UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60676.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: ANIMAL PLANET WORLD HD UK" tvg-logo="" group-title="India - Main",IN: ANIMAL PLANET WORLD HD UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60677.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: ARY Digital UK" tvg-logo="" group-title="India - Main",IN: ARY Digital UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60678.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: AsiaNet Plus" tvg-logo="" group-title="India - Main",IN: AsiaNet Plus
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60679.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: B4U MOVIES" tvg-logo="" group-title="India - Main",IN: B4U MOVIES
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60680.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: B4U MUSIC" tvg-logo="" group-title="India - Main",IN: B4U MUSIC
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60681.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: B4U Plus" tvg-logo="" group-title="India - Main",IN: B4U Plus
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60682.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: BBC WORLD NEWS UK" tvg-logo="" group-title="India - Main",IN: BBC WORLD NEWS UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60683.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: BHOJPURI CINEMA" tvg-logo="" group-title="India - Main",IN: BHOJPURI CINEMA
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60684.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Big Magic" tvg-logo="" group-title="India - Main",IN: Big Magic
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60685.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Britasia TV UK" tvg-logo="" group-title="India - Main",IN: Britasia TV UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60686.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: BTV CA" tvg-logo="" group-title="India - Main",IN: BTV CA
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60687.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Cinema TV" tvg-logo="" group-title="India - Main",IN: Cinema TV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60688.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Colors APAC" tvg-logo="" group-title="India - Main",IN: Colors APAC
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60689.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: COLORS FHD CA" tvg-logo="" group-title="India - Main",IN: COLORS FHD CA
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60690.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: COLORS TV FHD" tvg-logo="" group-title="India - Main",IN: COLORS TV FHD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60691.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Colors UK" tvg-logo="" group-title="India - Main",IN: Colors UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60692.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Dabangg" tvg-logo="" group-title="India - Main",IN: Dabangg
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60693.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Darshan 24" tvg-logo="" group-title="India - Main",IN: Darshan 24
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60694.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: DD BHARATI" tvg-logo="" group-title="India - Main",IN: DD BHARATI
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60695.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: DD GIRNAR" tvg-logo="" group-title="India - Main",IN: DD GIRNAR
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60696.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: DD KISAN" tvg-logo="" group-title="India - Main",IN: DD KISAN
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60697.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: DD Raja" tvg-logo="" group-title="India - Main",IN: DD Raja
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60698.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: DD Sport UK" tvg-logo="" group-title="India - Main",IN: DD Sport UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60699.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Desi Plus HD" tvg-logo="" group-title="India - Main",IN: Desi Plus HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60700.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Discovery" tvg-logo="" group-title="India - Main",IN: Discovery
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60701.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Discovery Kids" tvg-logo="" group-title="India - Main",IN: Discovery Kids
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60702.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: DISCOVERY SCIENCE" tvg-logo="" group-title="India - Main",IN: DISCOVERY SCIENCE
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60703.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Discovery Turbo" tvg-logo="" group-title="India - Main",IN: Discovery Turbo
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60704.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Discovery World HD" tvg-logo="" group-title="India - Main",IN: Discovery World HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60705.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Eleven Sport Network Asia" tvg-logo="" group-title="India - Main",IN: Eleven Sport Network Asia
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60706.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: ET NOW" tvg-logo="" group-title="India - Main",IN: ET NOW
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60707.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: ET Now UK" tvg-logo="" group-title="India - Main",IN: ET Now UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60708.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Fatafati Music" tvg-logo="" group-title="India - Main",IN: Fatafati Music
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60709.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Flix" tvg-logo="" group-title="India - Main",IN: Flix
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60710.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: FOOD FOOD TV" tvg-logo="" group-title="India - Main",IN: FOOD FOOD TV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60711.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Gemini Movies" tvg-logo="" group-title="India - Main",IN: Gemini Movies
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60712.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Gemini Movies 1" tvg-logo="" group-title="India - Main",IN: Gemini Movies 1
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60713.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Gemini Movies 2" tvg-logo="" group-title="India - Main",IN: Gemini Movies 2
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60714.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Gemini TV" tvg-logo="" group-title="India - Main",IN: Gemini TV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60715.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: GEO News UK" tvg-logo="" group-title="India - Main",IN: GEO News UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60716.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: GEO TV UK" tvg-logo="" group-title="India - Main",IN: GEO TV UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60717.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: God TV UK" tvg-logo="" group-title="India - Main",IN: God TV UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60718.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Harvest TV US" tvg-logo="" group-title="India - Main",IN: Harvest TV US
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60719.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: HUM Europe UK" tvg-logo="" group-title="India - Main",IN: HUM Europe UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60720.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: India Today News UK" tvg-logo="" group-title="India - Main",IN: India Today News UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60721.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: JAI Telangana" tvg-logo="" group-title="India - Main",IN: JAI Telangana
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60722.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Janam TV 2" tvg-logo="" group-title="India - Main",IN: Janam TV 2
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60723.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Jaya Max 2" tvg-logo="" group-title="India - Main",IN: Jaya Max 2
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60724.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Jaya Max UK" tvg-logo="" group-title="India - Main",IN: Jaya Max UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60725.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Jaya Movie UK" tvg-logo="" group-title="India - Main",IN: Jaya Movie UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60726.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Jaya Movies HD" tvg-logo="" group-title="India - Main",IN: Jaya Movies HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60727.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Jaya Plus" tvg-logo="" group-title="India - Main",IN: Jaya Plus
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60728.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Jaya TV UK" tvg-logo="" group-title="India - Main",IN: Jaya TV UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60729.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Jaya TV USA" tvg-logo="" group-title="India - Main",IN: Jaya TV USA
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60730.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: JUS 24x7" tvg-logo="" group-title="India - Main",IN: JUS 24x7
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60731.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Kairali" tvg-logo="" group-title="India - Main",IN: Kairali
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60732.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: LIVING FOODZ" tvg-logo="" group-title="India - Main",IN: LIVING FOODZ
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60733.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Maa Gold" tvg-logo="" group-title="India - Main",IN: Maa Gold
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60734.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Manoranjan Movies" tvg-logo="" group-title="India - Main",IN: Manoranjan Movies
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60735.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Manoranjan TV" tvg-logo="" group-title="India - Main",IN: Manoranjan TV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60736.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Mastiii TV" tvg-logo="" group-title="India - Main",IN: Mastiii TV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60737.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Movies OK" tvg-logo="" group-title="India - Main",IN: Movies OK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60738.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: MTV India" tvg-logo="" group-title="India - Main",IN: MTV India
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60739.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Music India" tvg-logo="" group-title="India - Main",IN: Music India
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60740.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: NDTV 24x7 UK" tvg-logo="" group-title="India - Main",IN: NDTV 24x7 UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60741.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: NDTV Good Times UK" tvg-logo="" group-title="India - Main",IN: NDTV Good Times UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60742.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: NDTV INDIA" tvg-logo="" group-title="India - Main",IN: NDTV INDIA
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60743.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: NDTV PROFIT" tvg-logo="" group-title="India - Main",IN: NDTV PROFIT
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60744.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: NDTV Profit UK" tvg-logo="" group-title="India - Main",IN: NDTV Profit UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60745.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: NEWS 24" tvg-logo="" group-title="India - Main",IN: NEWS 24
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60746.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Nickelodeon" tvg-logo="" group-title="India - Main",IN: Nickelodeon
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60747.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Noor TV UK" tvg-logo="" group-title="India - Main",IN: Noor TV UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60748.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Patrika TV Raj" tvg-logo="" group-title="India - Main",IN: Patrika TV Raj
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60749.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Pictures" tvg-logo="" group-title="India - Main",IN: Pictures
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60750.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Polimer TV" tvg-logo="" group-title="India - Main",IN: Polimer TV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60751.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Public TV US" tvg-logo="" group-title="India - Main",IN: Public TV US
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60752.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Puthiya" tvg-logo="" group-title="India - Main",IN: Puthiya
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60753.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: RAJ Digital Plus" tvg-logo="" group-title="India - Main",IN: RAJ Digital Plus
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60754.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Raj Digital Plus UK" tvg-logo="" group-title="India - Main",IN: Raj Digital Plus UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60755.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Raj Music HD CA" tvg-logo="" group-title="India - Main",IN: Raj Music HD CA
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60756.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Raj Music US" tvg-logo="" group-title="India - Main",IN: Raj Music US
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60757.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: RAJ Musix" tvg-logo="" group-title="India - Main",IN: RAJ Musix
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60758.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: RAJ TV" tvg-logo="" group-title="India - Main",IN: RAJ TV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60759.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Raj TV UK" tvg-logo="" group-title="India - Main",IN: Raj TV UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60760.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: REPUBLIC NEWS TV" tvg-logo="" group-title="India - Main",IN: REPUBLIC NEWS TV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60761.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Rishtey" tvg-logo="" group-title="India - Main",IN: Rishtey
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60762.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Rishtey CAD" tvg-logo="" group-title="India - Main",IN: Rishtey CAD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60763.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Rishtey Cine UK" tvg-logo="" group-title="India - Main",IN: Rishtey Cine UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60764.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Rishtey Cineplex" tvg-logo="" group-title="India - Main",IN: Rishtey Cineplex
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60765.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Rishtey Euro" tvg-logo="" group-title="India - Main",IN: Rishtey Euro
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60766.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Rishtey UK" tvg-logo="" group-title="India - Main",IN: Rishtey UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60767.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: ROMEDY NOW FHD UK" tvg-logo="" group-title="India - Main",IN: ROMEDY NOW FHD UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60768.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Saaral Jeevan CA" tvg-logo="" group-title="India - Main",IN: Saaral Jeevan CA
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60769.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Sab TV" tvg-logo="" group-title="India - Main",IN: Sab TV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60770.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: SAB UK" tvg-logo="" group-title="India - Main",IN: SAB UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60771.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Sadhana TV" tvg-logo="" group-title="India - Main",IN: Sadhana TV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60772.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Samay" tvg-logo="" group-title="India - Main",IN: Samay
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60773.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Samay Bihar" tvg-logo="" group-title="India - Main",IN: Samay Bihar
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60774.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: SANGEET BHOJPORI" tvg-logo="" group-title="India - Main",IN: SANGEET BHOJPORI
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60775.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Sanskar TV" tvg-logo="" group-title="India - Main",IN: Sanskar TV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60776.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Santhora TV" tvg-logo="" group-title="India - Main",IN: Santhora TV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60777.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: SetMax UK" tvg-logo="" group-title="India - Main",IN: SetMax UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60778.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: SetMax2" tvg-logo="" group-title="India - Main",IN: SetMax2
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60779.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Sonic Nickelodeon" tvg-logo="" group-title="India - Main",IN: Sonic Nickelodeon
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60780.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony HD" tvg-logo="" group-title="India - Main",IN: Sony HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60781.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony Le PLEX HD" tvg-logo="" group-title="India - Main",IN: Sony Le PLEX HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60782.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony Max" tvg-logo="" group-title="India - Main",IN: Sony Max
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60783.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: SONY MAX 2" tvg-logo="" group-title="India - Main",IN: SONY MAX 2
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60784.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony Max HD UK" tvg-logo="" group-title="India - Main",IN: Sony Max HD UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60785.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: SONY MIX" tvg-logo="" group-title="India - Main",IN: SONY MIX
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60786.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: SONY PAL" tvg-logo="" group-title="India - Main",IN: SONY PAL
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60787.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony Pix" tvg-logo="" group-title="India - Main",IN: Sony Pix
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60788.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: SONY SAB HD" tvg-logo="" group-title="India - Main",IN: SONY SAB HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60789.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony Sab UK" tvg-logo="" group-title="India - Main",IN: Sony Sab UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60790.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: SONY SETMAX HD" tvg-logo="" group-title="India - Main",IN: SONY SETMAX HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60791.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony Ten 1 FHD" tvg-logo="" group-title="India - Main",IN: Sony Ten 1 FHD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60792.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony Ten 2 UK" tvg-logo="" group-title="India - Main",IN: Sony Ten 2 UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60793.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony Ten 3 UK" tvg-logo="" group-title="India - Main",IN: Sony Ten 3 UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60794.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: SONY TV FHD" tvg-logo="" group-title="India - Main",IN: SONY TV FHD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60795.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony UK" tvg-logo="" group-title="India - Main",IN: Sony UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60796.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony WAH" tvg-logo="" group-title="India - Main",IN: Sony WAH
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60797.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: STAR GOLD HD" tvg-logo="" group-title="India - Main",IN: STAR GOLD HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60798.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Gold UK" tvg-logo="" group-title="India - Main",IN: Star Gold UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60799.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Jalsha" tvg-logo="" group-title="India - Main",IN: Star Jalsha
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60800.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Movies Action" tvg-logo="" group-title="India - Main",IN: Star Movies Action
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60801.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Movies HD" tvg-logo="" group-title="India - Main",IN: Star Movies HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60802.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Plus HD" tvg-logo="" group-title="India - Main",IN: Star Plus HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60803.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Plus HD US" tvg-logo="" group-title="India - Main",IN: Star Plus HD US
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60804.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Plus UK" tvg-logo="" group-title="India - Main",IN: Star Plus UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60805.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Pravah" tvg-logo="" group-title="India - Main",IN: Star Pravah
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60806.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Sports 1 HD" tvg-logo="" group-title="India - Main",IN: Star Sports 1 HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60807.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Sports 3 HD" tvg-logo="" group-title="India - Main",IN: Star Sports 3 HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60808.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Sun TV HD" tvg-logo="" group-title="India - Main",IN: Sun TV HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60809.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Takbeer TV UK" tvg-logo="" group-title="India - Main",IN: Takbeer TV UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60810.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: TEN 1 HD" tvg-logo="" group-title="India - Main",IN: TEN 1 HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60811.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Ten Action" tvg-logo="" group-title="India - Main",IN: Ten Action
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60812.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Ten Sports" tvg-logo="" group-title="India - Main",IN: Ten Sports
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60813.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: TEZ TV" tvg-logo="" group-title="India - Main",IN: TEZ TV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60814.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Times Now" tvg-logo="" group-title="India - Main",IN: Times Now
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60815.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Times Now HD UK" tvg-logo="" group-title="India - Main",IN: Times Now HD UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60816.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: TRAVEL XP FHD UK" tvg-logo="" group-title="India - Main",IN: TRAVEL XP FHD UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60817.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Travel XP HD" tvg-logo="" group-title="India - Main",IN: Travel XP HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60818.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: TV FHD" tvg-logo="" group-title="India - Main",IN: TV FHD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60819.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: TV5 Monde Asia UK" tvg-logo="" group-title="India - Main",IN: TV5 Monde Asia UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60820.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: TV9 NEWS CA" tvg-logo="" group-title="India - Main",IN: TV9 NEWS CA
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60821.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: UDAYA TV CA" tvg-logo="" group-title="India - Main",IN: UDAYA TV CA
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60822.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: UTV Bindas" tvg-logo="" group-title="India - Main",IN: UTV Bindas
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60823.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: UTV Bindass" tvg-logo="" group-title="India - Main",IN: UTV Bindass
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60824.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: UTV Movies" tvg-logo="" group-title="India - Main",IN: UTV Movies
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60825.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: UTV Movies Inter" tvg-logo="" group-title="India - Main",IN: UTV Movies Inter
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60826.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Willow Cricket" tvg-logo="" group-title="India - Main",IN: Willow Cricket
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60827.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Wion TV UK" tvg-logo="" group-title="India - Main",IN: Wion TV UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60828.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: WOW Cinema" tvg-logo="" group-title="India - Main",IN: WOW Cinema
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60829.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE ANMOL" tvg-logo="" group-title="India - Main",IN: ZEE ANMOL
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60830.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Business" tvg-logo="" group-title="India - Main",IN: Zee Business
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60831.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE CA" tvg-logo="" group-title="India - Main",IN: ZEE CA
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60832.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE CINEMA HD" tvg-logo="" group-title="India - Main",IN: ZEE CINEMA HD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60833.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Cinema UK" tvg-logo="" group-title="India - Main",IN: Zee Cinema UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60834.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Classic" tvg-logo="" group-title="India - Main",IN: Zee Classic
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60835.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee HD CA" tvg-logo="" group-title="India - Main",IN: Zee HD CA
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60836.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee News" tvg-logo="" group-title="India - Main",IN: Zee News
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60837.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Raj" tvg-logo="" group-title="India - Main",IN: Zee Raj
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60838.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE RAJASTHAN" tvg-logo="" group-title="India - Main",IN: ZEE RAJASTHAN
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60839.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE SALAAM" tvg-logo="" group-title="India - Main",IN: ZEE SALAAM
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60840.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Talkies" tvg-logo="" group-title="India - Main",IN: Zee Talkies
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60841.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee TV APAC" tvg-logo="" group-title="India - Main",IN: Zee TV APAC
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60842.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE TV FHD" tvg-logo="" group-title="India - Main",IN: ZEE TV FHD
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60843.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee TV US" tvg-logo="" group-title="India - Main",IN: Zee TV US
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60844.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Zindagi" tvg-logo="" group-title="India - Main",IN: Zee Zindagi
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60845.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: ZeeNews" tvg-logo="" group-title="India - Main",IN: ZeeNews
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60846.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Zindagi" tvg-logo="" group-title="India - Main",IN: Zindagi
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60847.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Zing TV" tvg-logo="" group-title="India - Main",IN: Zing TV
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60848.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Zing TV UK" tvg-logo="" group-title="India - Main",IN: Zing TV UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60849.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Zing TV US" tvg-logo="" group-title="India - Main",IN: Zing TV US
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60850.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Zoom" tvg-logo="" group-title="India - Main",IN: Zoom
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60851.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Zoom UK" tvg-logo="" group-title="India - Main",IN: Zoom UK
-http://s1.shortdns.xyz:80/live/2GM8K1CBEF/2bm9zsZ95V/60852.m3u8
 
+
+#EXTINF:-1,*** WellCome ***
+http://xtv.ooo:8080/live/milon555/milon555/26014.m3u8
+#EXTINF:-1,PK: PTV SPORTS
+http://xtv.ooo:8080/live/milon555/milon555/167567.m3u8
+#EXTINF:-1,PK: PTV SPORTS HD
+http://xtv.ooo:8080/live/milon555/milon555/217968.m3u8
+#EXTINF:-1,PK | Geo Super HD
+http://xtv.ooo:8080/live/milon555/milon555/167568.m3u8
+#EXTINF:-1,PK: TEN SPORTS
+http://xtv.ooo:8080/live/milon555/milon555/167569.m3u8
+#EXTINF:-1,T20 WORLD CUP 01
+http://xtv.ooo:8080/live/milon555/milon555/219643.m3u8
+#EXTINF:-1,PK: A Sports HD (Server 1)
+http://xtv.ooo:8080/live/milon555/milon555/219689.m3u8
+#EXTINF:-1,PK: A Sports HD (Server 2)
+http://xtv.ooo:8080/live/milon555/milon555/221417.m3u8
+#EXTINF:-1,IN | Sony Ten 1 HD
+http://xtv.ooo:8080/live/milon555/milon555/167570.m3u8
+#EXTINF:-1,IN | Sony Ten 2 HD
+http://xtv.ooo:8080/live/milon555/milon555/167571.m3u8
+#EXTINF:-1,IN | Sony Ten 3 HD
+http://xtv.ooo:8080/live/milon555/milon555/167572.m3u8
+#EXTINF:-1,IN: Sony Ten 4
+http://xtv.ooo:8080/live/milon555/milon555/167595.m3u8
+#EXTINF:-1,CRI: Ten Cricket
+http://xtv.ooo:8080/live/milon555/milon555/167587.m3u8
+#EXTINF:-1,IN: STAR SPORTS 1 Hindi
+http://xtv.ooo:8080/live/milon555/milon555/167573.m3u8
+#EXTINF:-1,IN: Star Sports tamil 1
+http://xtv.ooo:8080/live/milon555/milon555/167574.m3u8
+#EXTINF:-1,IN | Star Sports 1 HD
+http://xtv.ooo:8080/live/milon555/milon555/167575.m3u8
+#EXTINF:-1,IN | Star Sports 2 HD
+http://xtv.ooo:8080/live/milon555/milon555/167576.m3u8
+#EXTINF:-1,IN | Star Sports 3 HD
+http://xtv.ooo:8080/live/milon555/milon555/167577.m3u8
+#EXTINF:-1,IN | STAR SPORTS SELECT 1
+http://xtv.ooo:8080/live/milon555/milon555/167578.m3u8
+#EXTINF:-1,IN | STAR SPORTS SELECT 2
+http://xtv.ooo:8080/live/milon555/milon555/167579.m3u8
+#EXTINF:-1,IN | SONY TEN 5
+http://xtv.ooo:8080/live/milon555/milon555/167580.m3u8
+#EXTINF:-1,IN: Sports 18 (4K)
+http://xtv.ooo:8080/live/milon555/milon555/382205.m3u8
+#EXTINF:-1,IN | Astro Cricket HD
+http://xtv.ooo:8080/live/milon555/milon555/167581.m3u8
+#EXTINF:-1,SuperSport Cricket
+http://xtv.ooo:8080/live/milon555/milon555/167592.m3u8
+#EXTINF:-1,AU: FOX CRICKET 501
+http://xtv.ooo:8080/live/milon555/milon555/167593.m3u8
+#EXTINF:-1,UK: Sky Sports Cricket
+http://xtv.ooo:8080/live/milon555/milon555/167594.m3u8
+#EXTINF:-1,IN | Willow Xtra
+http://xtv.ooo:8080/live/milon555/milon555/167582.m3u8
+#EXTINF:-1,IN: Willow Cricket HD
+http://xtv.ooo:8080/live/milon555/milon555/167583.m3u8
+#EXTINF:-1,BS | beIN SPORT CRICKET
+http://xtv.ooo:8080/live/milon555/milon555/167584.m3u8
+#EXTINF:-1,IN: EUROSPORT HD
+http://xtv.ooo:8080/live/milon555/milon555/167585.m3u8
+#EXTINF:-1,IN: 1SPORTS
+http://xtv.ooo:8080/live/milon555/milon555/167586.m3u8
+#EXTINF:-1,IN: DD Sports
+http://xtv.ooo:8080/live/milon555/milon555/167588.m3u8
+#EXTINF:-1,T-SPORTS
+http://xtv.ooo:8080/live/milon555/milon555/167590.m3u8
+#EXTINF:-1,AFG: RTA SPORTS
+http://xtv.ooo:8080/live/milon555/milon555/167591.m3u8
+#EXTINF:-1,IND: jio Cricket
+http://xtv.ooo:8080/live/milon555/milon555/206297.m3u8
+#EXTINF:-1,UK: TNT Sport 2 CRICKET
+http://xtv.ooo:8080/live/milon555/milon555/206566.m3u8
+#EXTINF:-1,PK: MAQ TV CRICKET
+http://xtv.ooo:8080/live/milon555/milon555/207190.m3u8
+#EXTINF:-1,NZ: SKY Sport Cricket 3
+http://xtv.ooo:8080/live/milon555/milon555/217530.m3u8
+#EXTINF:-1,PK: FAST SPORTS
+http://xtv.ooo:8080/live/milon555/milon555/308225.m3u8
+#EXTINF:-1,StarzPlay CricLife 1
+http://xtv.ooo:8080/live/milon555/milon555/371469.m3u8
+#EXTINF:-1,StarzPlay CricLife 2
+http://xtv.ooo:8080/live/milon555/milon555/371470.m3u8
+#EXTINF:-1,StarzPlay CricLife 3
+http://xtv.ooo:8080/live/milon555/milon555/371471.m3u8
+#EXTINF:-1,•●★--- Welcome ----★●•
+http://xtv.ooo:8080/live/milon555/milon555/222338.m3u8
+#EXTINF:-1,Af | DSTV: Super Sports Cricket
+http://xtv.ooo:8080/live/milon555/milon555/238475.m3u8
+#EXTINF:-1,Af | DSTV: Super Sports Grand Stand
+http://xtv.ooo:8080/live/milon555/milon555/238476.m3u8
+#EXTINF:-1,DSTV: Super Sports PSL
+http://xtv.ooo:8080/live/milon555/milon555/238477.m3u8
+#EXTINF:-1,Af | DSTV: Super Sports Premier League
+http://xtv.ooo:8080/live/milon555/milon555/238478.m3u8
+#EXTINF:-1,Af | DSTV: Super Sports La Liga
+http://xtv.ooo:8080/live/milon555/milon555/238479.m3u8
+#EXTINF:-1,Af | DSTV: Super Sports Football
+http://xtv.ooo:8080/live/milon555/milon555/238480.m3u8
+#EXTINF:-1,Af | DSTV: Super Sports Variety 1
+http://xtv.ooo:8080/live/milon555/milon555/238481.m3u8
+#EXTINF:-1,Af | DSTV: Super Sports Variety 2
+http://xtv.ooo:8080/live/milon555/milon555/238482.m3u8
+#EXTINF:-1,Af | DSTV: Super Sports Variety 3
+http://xtv.ooo:8080/live/milon555/milon555/238483.m3u8
+#EXTINF:-1,Af | DSTV: Super Sports Variety 4
+http://xtv.ooo:8080/live/milon555/milon555/238484.m3u8
+#EXTINF:-1,Af | DSTV: Super Sports Action
+http://xtv.ooo:8080/live/milon555/milon555/238485.m3u8
+#EXTINF:-1,Af | DSTV: Super Sports Rugby
+http://xtv.ooo:8080/live/milon555/milon555/238486.m3u8
+#EXTINF:-1,Af | DSTV: Super Sports Blitz
+http://xtv.ooo:8080/live/milon555/milon555/238487.m3u8
+#EXTINF:-1,Af | DSTV: Super Sports Golf
+http://xtv.ooo:8080/live/milon555/milon555/238488.m3u8
+#EXTINF:-1,Af | DSTV: Super Sports Tennis
+http://xtv.ooo:8080/live/milon555/milon555/238489.m3u8
+#EXTINF:-1,Af | DSTV: Super Sports MotorSports
+http://xtv.ooo:8080/live/milon555/milon555/238490.m3u8
+#EXTINF:-1,Af | DSTV: ESPN 1
+http://xtv.ooo:8080/live/milon555/milon555/238491.m3u8
+#EXTINF:-1,Af | DSTV: ESPN 2
+http://xtv.ooo:8080/live/milon555/milon555/238492.m3u8
+#EXTINF:-1,Af | DSTV: SuperSport Maximo 1
+http://xtv.ooo:8080/live/milon555/milon555/238493.m3u8
+#EXTINF:-1,AF: WWE Superslam
+http://xtv.ooo:8080/live/milon555/milon555/383060.m3u8
+
+
+
+#EXTINF:-1,IN | Zoom TV
+http://xtv.ooo:8080/live/milon555/milon555/66190.m3u8
+#EXTINF:-1,IN | 9xm
+http://xtv.ooo:8080/live/milon555/milon555/66192.m3u8
+#EXTINF:-1,IN | B4u Music
+http://xtv.ooo:8080/live/milon555/milon555/66203.m3u8
+#EXTINF:-1,IN | 9x Jalwa
+http://xtv.ooo:8080/live/milon555/milon555/66226.m3u8
+#EXTINF:-1,IN | MTV BEAT
+http://xtv.ooo:8080/live/milon555/milon555/66273.m3u8
+#EXTINF:-1,IN | YRF MUSIC
+http://xtv.ooo:8080/live/milon555/milon555/383530.m3u8
+#EXTINF:-1,IN | SHOWBOX MUSIC
+http://xtv.ooo:8080/live/milon555/milon555/383529.m3u8
+#EXTINF:-1,ind-pun: Pittara TV
+http://xtv.ooo:8080/live/milon555/milon555/66285.m3u8
+#EXTINF:-1,IN | 9x Tashan
+http://xtv.ooo:8080/live/milon555/milon555/66289.m3u8
+#EXTINF:-1,***IND: DRAMA (4K ULTRA HD)***
+http://xtv.ooo:8080/live/milon555/milon555/109946.m3u8
+#EXTINF:-1,Colors (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109947.m3u8
+#EXTINF:-1,SONY SET (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109948.m3u8
+#EXTINF:-1,Star Plus (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109949.m3u8
+#EXTINF:-1,ZEE TV (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109950.m3u8
+#EXTINF:-1,STAR BHARAT (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109951.m3u8
+#EXTINF:-1,&tv (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109952.m3u8
+#EXTINF:-1,SONY SAB (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109953.m3u8
+#EXTINF:-1,IN: Mastii
+http://xtv.ooo:8080/live/milon555/milon555/112988.m3u8
+#EXTINF:-1,IN: UTV Bindass
+http://xtv.ooo:8080/live/milon555/milon555/112993.m3u8
+#EXTINF:-1,IND-Punjabi: PTC MUSIC
+http://xtv.ooo:8080/live/milon555/milon555/153373.m3u8
+#EXTINF:-1,MUSIC INDIA
+http://xtv.ooo:8080/live/milon555/milon555/190028.m3u8
+#EXTINF:-1,IN: Boogle Bollywood
+http://xtv.ooo:8080/live/milon555/milon555/206045.m3u8
+#EXTINF:-1,IND: MTV HD +
+http://xtv.ooo:8080/live/milon555/milon555/206049.m3u8
+#EXTINF:-1,IND: MTV India
+http://xtv.ooo:8080/live/milon555/milon555/206054.m3u8
+#EXTINF:-1,IN | BBC EART HINDI
+http://xtv.ooo:8080/live/milon555/milon555/206278.m3u8
+#EXTINF:-1,IN | BBC EART ENG
+http://xtv.ooo:8080/live/milon555/milon555/383184.m3u8
+#EXTINF:-1,IND: Animal Planet Hindi
+http://xtv.ooo:8080/live/milon555/milon555/206282.m3u8
+#EXTINF:-1,IN: Animal Planet FHD ENG
+http://xtv.ooo:8080/live/milon555/milon555/206283.m3u8
+#EXTINF:-1,IND: Nat Geo HD Hindi
+http://xtv.ooo:8080/live/milon555/milon555/206285.m3u8
+#EXTINF:-1,IND: Nat Geo HD ENG
+http://xtv.ooo:8080/live/milon555/milon555/383183.m3u8
+#EXTINF:-1,IN | Nat Geo Wild HINDI
+http://xtv.ooo:8080/live/milon555/milon555/206286.m3u8
+#EXTINF:-1,IN | Nat Geo Wild FHD ENG
+http://xtv.ooo:8080/live/milon555/milon555/206587.m3u8
+#EXTINF:-1,IND: Discovery Hindi
+http://xtv.ooo:8080/live/milon555/milon555/206287.m3u8
+#EXTINF:-1,IND: Discovery Science
+http://xtv.ooo:8080/live/milon555/milon555/206289.m3u8
+#EXTINF:-1,IND: Investigation Discovery Hindi
+http://xtv.ooo:8080/live/milon555/milon555/206291.m3u8
+#EXTINF:-1,IND: Discovery Turbo
+http://xtv.ooo:8080/live/milon555/milon555/206292.m3u8
+#EXTINF:-1,IND: Travel XP Eng
+http://xtv.ooo:8080/live/milon555/milon555/206279.m3u8
+#EXTINF:-1,IND: Travel_XP Hindi
+http://xtv.ooo:8080/live/milon555/milon555/206280.m3u8
+#EXTINF:-1,IND: History 18 Hindi
+http://xtv.ooo:8080/live/milon555/milon555/206294.m3u8
+#EXTINF:-1,IN: History TV 18 FHD
+http://xtv.ooo:8080/live/milon555/milon555/206295.m3u8
+#EXTINF:-1,IND: Epic
+http://xtv.ooo:8080/live/milon555/milon555/206296.m3u8
+#EXTINF:-1,IND:PB: Balle Balle
+http://xtv.ooo:8080/live/milon555/milon555/219495.m3u8
+#EXTINF:-1,IND:PB: Wah Punjabi
+http://xtv.ooo:8080/live/milon555/milon555/219496.m3u8
+#EXTINF:-1,IND: ZING
+http://xtv.ooo:8080/live/milon555/milon555/219497.m3u8
+#EXTINF:-1,***IND: MOVIES (4K ULTRA HD)***
+http://xtv.ooo:8080/live/milon555/milon555/109954.m3u8
+#EXTINF:-1,&pictures (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109955.m3u8
+#EXTINF:-1,SONY MAX (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109957.m3u8
+#EXTINF:-1,ZEE CINEMA (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109958.m3u8
+#EXTINF:-1,Star GOLD (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109959.m3u8
+#EXTINF:-1,Star Gold Select (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109960.m3u8
+#EXTINF:-1,Movies_active (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109961.m3u8
+#EXTINF:-1,& flix (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109962.m3u8
+#EXTINF:-1,& Prive (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109963.m3u8
+#EXTINF:-1,& Xplorer (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109964.m3u8
+#EXTINF:-1,MN+ (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109965.m3u8
+#EXTINF:-1,SONY PIX (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109966.m3u8
+#EXTINF:-1,Movies Now (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109968.m3u8
+#EXTINF:-1,STAR MOVIES (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109970.m3u8
+#EXTINF:-1,STAR WORLD (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109971.m3u8
+#EXTINF:-1,DISCOVERY (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109974.m3u8
+#EXTINF:-1,ANIMAL PLANET (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109975.m3u8
+#EXTINF:-1,NAT Geo Wild (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109976.m3u8
+#EXTINF:-1,National GEO (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109977.m3u8
+#EXTINF:-1,Sony BBC Ear (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109978.m3u8
+#EXTINF:-1,FOX Life (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109980.m3u8
+#EXTINF:-1,IN: COLORS CINEPLEX (4K)
+http://xtv.ooo:8080/live/milon555/milon555/206315.m3u8
+#EXTINF:-1,IN: Jalsha Movies (4K)*
+http://xtv.ooo:8080/live/milon555/milon555/206320.m3u8
+#EXTINF:-1,***IND: SPORTS (4K ULTRA HD)***
+http://xtv.ooo:8080/live/milon555/milon555/109982.m3u8
+#EXTINF:-1,Sony Ten 1 (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109983.m3u8
+#EXTINF:-1,Sony Ten 2 (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109984.m3u8
+#EXTINF:-1,Sony Ten 3 (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109985.m3u8
+#EXTINF:-1,Star Sport 1 HINDI (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109986.m3u8
+#EXTINF:-1,Star Sports 1 (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109987.m3u8
+#EXTINF:-1,Star Sports 2 (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109988.m3u8
+#EXTINF:-1,SONY SIX (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109992.m3u8
+#EXTINF:-1,Star Sports Select 1 (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109993.m3u8
+#EXTINF:-1,Star Sports Select 2 (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109994.m3u8
+#EXTINF:-1,IN: EUROPSPORT (4K)
+http://xtv.ooo:8080/live/milon555/milon555/206324.m3u8
+#EXTINF:-1,***** IN | India *****
+http://xtv.ooo:8080/live/milon555/milon555/66161.m3u8
+#EXTINF:-1,IN | Zee TV
+http://xtv.ooo:8080/live/milon555/milon555/221250.m3u8
+#EXTINF:-1,IN | Zee TV HD
+http://xtv.ooo:8080/live/milon555/milon555/66162.m3u8
+#EXTINF:-1,IN | Zee TV [FHD]
+http://xtv.ooo:8080/live/milon555/milon555/66163.m3u8
+#EXTINF:-1,IN | Sony SET (TATAPLAY)
+http://xtv.ooo:8080/live/milon555/milon555/221251.m3u8
+#EXTINF:-1,IN | Sony SET HD
+http://xtv.ooo:8080/live/milon555/milon555/66164.m3u8
+#EXTINF:-1,IN | Sony SET [FHD]
+http://xtv.ooo:8080/live/milon555/milon555/66165.m3u8
+#EXTINF:-1,IN | Star Plus
+http://xtv.ooo:8080/live/milon555/milon555/221252.m3u8
+#EXTINF:-1,IN | Star Plus HD
+http://xtv.ooo:8080/live/milon555/milon555/66166.m3u8
+#EXTINF:-1,IN | Star Plus FHD
+http://xtv.ooo:8080/live/milon555/milon555/66208.m3u8
+#EXTINF:-1,IN | Colors
+http://xtv.ooo:8080/live/milon555/milon555/221254.m3u8
+#EXTINF:-1,IN | Colors HD
+http://xtv.ooo:8080/live/milon555/milon555/66167.m3u8
+#EXTINF:-1,IN | Colors [FHD]
+http://xtv.ooo:8080/live/milon555/milon555/66168.m3u8
+#EXTINF:-1,IN | Star Bharat
+http://xtv.ooo:8080/live/milon555/milon555/221255.m3u8
+#EXTINF:-1,IN | Star Bharat HD
+http://xtv.ooo:8080/live/milon555/milon555/66170.m3u8
+#EXTINF:-1,IN | Star Bharat [FHD]
+http://xtv.ooo:8080/live/milon555/milon555/66171.m3u8
+#EXTINF:-1,IN | Sony Sab
+http://xtv.ooo:8080/live/milon555/milon555/221256.m3u8
+#EXTINF:-1,IN | Sony Sab HD
+http://xtv.ooo:8080/live/milon555/milon555/66174.m3u8
+#EXTINF:-1,IN | Sony Sab UK*
+http://xtv.ooo:8080/live/milon555/milon555/66175.m3u8
+#EXTINF:-1,IN: SONY SAB [FHD]
+http://xtv.ooo:8080/live/milon555/milon555/104194.m3u8
+#EXTINF:-1,IN | &Tv
+http://xtv.ooo:8080/live/milon555/milon555/221253.m3u8
+#EXTINF:-1,IN | &Tv HD
+http://xtv.ooo:8080/live/milon555/milon555/66172.m3u8
+#EXTINF:-1,IN | &Tv [FHD]
+http://xtv.ooo:8080/live/milon555/milon555/66173.m3u8
+#EXTINF:-1,IN | STAR GOLD THRILLS
+http://xtv.ooo:8080/live/milon555/milon555/221258.m3u8
+#EXTINF:-1,IN | Star Gold HD
+http://xtv.ooo:8080/live/milon555/milon555/66177.m3u8
+#EXTINF:-1,IN | Star Gold [FHD]
+http://xtv.ooo:8080/live/milon555/milon555/66178.m3u8
+#EXTINF:-1,IN | Star Gold Select
+http://xtv.ooo:8080/live/milon555/milon555/221257.m3u8
+#EXTINF:-1,IN | Star Gold Select FHD
+http://xtv.ooo:8080/live/milon555/milon555/66176.m3u8
+#EXTINF:-1,IND: Star Gold 2
+http://xtv.ooo:8080/live/milon555/milon555/106133.m3u8
+#EXTINF:-1,IN: STAR GOLD HD (TATASKY)
+http://xtv.ooo:8080/live/milon555/milon555/112982.m3u8
+#EXTINF:-1,IN | & Pictures
+http://xtv.ooo:8080/live/milon555/milon555/221260.m3u8
+#EXTINF:-1,IN | & Pictures HD
+http://xtv.ooo:8080/live/milon555/milon555/66181.m3u8
+#EXTINF:-1,IN | & Pictures [FHD]
+http://xtv.ooo:8080/live/milon555/milon555/66183.m3u8
+#EXTINF:-1,IN | ZEE CINEMA FHD (TATASKY)
+http://xtv.ooo:8080/live/milon555/milon555/221261.m3u8
+#EXTINF:-1,IN | ZEE CINEMA HD
+http://xtv.ooo:8080/live/milon555/milon555/206307.m3u8
+#EXTINF:-1,IN | ZEE CINEMA [FHD]
+http://xtv.ooo:8080/live/milon555/milon555/206308.m3u8
+#EXTINF:-1,IND: Zee Cinema USA
+http://xtv.ooo:8080/live/milon555/milon555/206268.m3u8
+#EXTINF:-1,IN: Dhamaka Movies B4U
+http://xtv.ooo:8080/live/milon555/milon555/66184.m3u8
+#EXTINF:-1,IN | Dhinchaak
+http://xtv.ooo:8080/live/milon555/milon555/383528.m3u8
+#EXTINF:-1,IN: Oscar Movies
+http://xtv.ooo:8080/live/milon555/milon555/66185.m3u8
+#EXTINF:-1,IN: STAR GOLD ROMANCE
+http://xtv.ooo:8080/live/milon555/milon555/66186.m3u8
+#EXTINF:-1,IN: COLORS CINEPLEX
+http://xtv.ooo:8080/live/milon555/milon555/104191.m3u8
+#EXTINF:-1,IN: COLORS CINEPLEX FHD
+http://xtv.ooo:8080/live/milon555/milon555/206310.m3u8
+#EXTINF:-1,IN | Sony Max (TATAPLAY)
+http://xtv.ooo:8080/live/milon555/milon555/221259.m3u8
+#EXTINF:-1,IN | Sony Max HD
+http://xtv.ooo:8080/live/milon555/milon555/66179.m3u8
+#EXTINF:-1,IN | Sony Max [FHD]
+http://xtv.ooo:8080/live/milon555/milon555/66180.m3u8
+#EXTINF:-1,IN | SONY MAX 2
+http://xtv.ooo:8080/live/milon555/milon555/66189.m3u8
+#EXTINF:-1,IN | Zee Anmol Cinema
+http://xtv.ooo:8080/live/milon555/milon555/66187.m3u8
+#EXTINF:-1,IN | Colors Rishtey
+http://xtv.ooo:8080/live/milon555/milon555/66188.m3u8
+#EXTINF:-1,IN: Color Cineplex SuperHits
+http://xtv.ooo:8080/live/milon555/milon555/66199.m3u8
+#EXTINF:-1,IN | ZEE ACTION
+http://xtv.ooo:8080/live/milon555/milon555/66191.m3u8
+#EXTINF:-1,IN | ZEE CLASSIC
+http://xtv.ooo:8080/live/milon555/milon555/66201.m3u8
+#EXTINF:-1,IN: Bflix Movies
+http://xtv.ooo:8080/live/milon555/milon555/104190.m3u8
+#EXTINF:-1,IN | Sony Pal
+http://xtv.ooo:8080/live/milon555/milon555/104192.m3u8
+#EXTINF:-1,IND: BIG MAGIC
+http://xtv.ooo:8080/live/milon555/milon555/104198.m3u8
+#EXTINF:-1,IND: B4U Kadak
+http://xtv.ooo:8080/live/milon555/milon555/104199.m3u8
+#EXTINF:-1,IND: ABZY MOVIES
+http://xtv.ooo:8080/live/milon555/milon555/104200.m3u8
+#EXTINF:-1,IND: B4U Movies
+http://xtv.ooo:8080/live/milon555/milon555/104201.m3u8
+#EXTINF:-1,IND: ENTER 10 Movies
+http://xtv.ooo:8080/live/milon555/milon555/104202.m3u8
+#EXTINF:-1,IND: MANORANJAN TV
+http://xtv.ooo:8080/live/milon555/milon555/104203.m3u8
+#EXTINF:-1,IN | Zee Anmol
+http://xtv.ooo:8080/live/milon555/milon555/66357.m3u8
+#EXTINF:-1,IND: MANORANJAN MOVIES
+http://xtv.ooo:8080/live/milon555/milon555/104204.m3u8
+#EXTINF:-1,IN | Maha Movies
+http://xtv.ooo:8080/live/milon555/milon555/104206.m3u8
+#EXTINF:-1,IN: WOW CINEMA ONE
+http://xtv.ooo:8080/live/milon555/milon555/106132.m3u8
+#EXTINF:-1,IN: |UK| ZEE CINEMA UK
+http://xtv.ooo:8080/live/milon555/milon555/112970.m3u8
+#EXTINF:-1,IN: STAR UTSAV MOVIES
+http://xtv.ooo:8080/live/milon555/milon555/112971.m3u8
+#EXTINF:-1,IN: GOLDMINES
+http://xtv.ooo:8080/live/milon555/milon555/112972.m3u8
+#EXTINF:-1,IN: GOLDMINES BOLLYWOOD
+http://xtv.ooo:8080/live/milon555/milon555/112973.m3u8
+#EXTINF:-1,IN: DD National
+http://xtv.ooo:8080/live/milon555/milon555/112975.m3u8
+#EXTINF:-1,IN: ZEE TV CANADA
+http://xtv.ooo:8080/live/milon555/milon555/112976.m3u8
+#EXTINF:-1,IN: STAR UTSAV
+http://xtv.ooo:8080/live/milon555/milon555/112977.m3u8
+#EXTINF:-1,IND: DHAMAAL TV*
+http://xtv.ooo:8080/live/milon555/milon555/112978.m3u8
+#EXTINF:-1,IN | Sony Wah
+http://xtv.ooo:8080/live/milon555/milon555/112979.m3u8
+#EXTINF:-1,IND: Colors Cineplex Bollywood
+http://xtv.ooo:8080/live/milon555/milon555/112983.m3u8
+#EXTINF:-1,IN: MBC BOLLYWOOD*
+http://xtv.ooo:8080/live/milon555/milon555/112984.m3u8
+#EXTINF:-1,IN: GEM BOLLYWOOD
+http://xtv.ooo:8080/live/milon555/milon555/112986.m3u8
+#EXTINF:-1,IND: Dabangg
+http://xtv.ooo:8080/live/milon555/milon555/206270.m3u8
+#EXTINF:-1,IND: Zee Cinema SD
+http://xtv.ooo:8080/live/milon555/milon555/206271.m3u8
+#EXTINF:-1,IN: MOVIES ACTIVE FHD
+http://xtv.ooo:8080/live/milon555/milon555/206276.m3u8
+#EXTINF:-1,IN | ZEE AFLAM
+http://xtv.ooo:8080/live/milon555/milon555/206277.m3u8
+#EXTINF:-1,IN: ZEE Bollywood
+http://xtv.ooo:8080/live/milon555/milon555/207200.m3u8
+#EXTINF:-1,IN | Star World HD
+http://xtv.ooo:8080/live/milon555/milon555/66211.m3u8
+#EXTINF:-1,IN | Star Movies FHD
+http://xtv.ooo:8080/live/milon555/milon555/66213.m3u8
+#EXTINF:-1,IN | Sony Pix FHD
+http://xtv.ooo:8080/live/milon555/milon555/66224.m3u8
+#EXTINF:-1,IN | &Prive FHD
+http://xtv.ooo:8080/live/milon555/milon555/66228.m3u8
+#EXTINF:-1,IN | HBO HD
+http://xtv.ooo:8080/live/milon555/milon555/66229.m3u8
+#EXTINF:-1,IN | & Flix FHD
+http://xtv.ooo:8080/live/milon555/milon555/66236.m3u8
+#EXTINF:-1,IN: & Explor FHD
+http://xtv.ooo:8080/live/milon555/milon555/66241.m3u8
+#EXTINF:-1,IN: MNX FHD
+http://xtv.ooo:8080/live/milon555/milon555/66266.m3u8
+#EXTINF:-1,IN | Movies Now FHD
+http://xtv.ooo:8080/live/milon555/milon555/66271.m3u8
+#EXTINF:-1,IN | BBO HD
+http://xtv.ooo:8080/live/milon555/milon555/66277.m3u8
+#EXTINF:-1,IN | Fox Life FHD
+http://xtv.ooo:8080/live/milon555/milon555/66278.m3u8
+#EXTINF:-1,IN | Romedy Now
+http://xtv.ooo:8080/live/milon555/milon555/66282.m3u8
+#EXTINF:-1,IN | Zee Cafe HD
+http://xtv.ooo:8080/live/milon555/milon555/66287.m3u8
+#EXTINF:-1,IN | AXN HD
+http://xtv.ooo:8080/live/milon555/milon555/66313.m3u8
+#EXTINF:-1,IN | Star Movies Select HD
+http://xtv.ooo:8080/live/milon555/milon555/66315.m3u8
+#EXTINF:-1,IND: Bhojpuri_Cinema
+http://xtv.ooo:8080/live/milon555/milon555/269091.m3u8
+#EXTINF:-1,IND: GOLDMINES MOVIES
+http://xtv.ooo:8080/live/milon555/milon555/275337.m3u8
+#EXTINF:-1,IND: BBO CLASSIC
+http://xtv.ooo:8080/live/milon555/milon555/308228.m3u8
+#EXTINF:-1,24/7 MUSIC 18
+http://xtv.ooo:8080/live/milon555/milon555/362865.m3u8
+#EXTINF:-1,24/7 MUSIC 19
+http://xtv.ooo:8080/live/milon555/milon555/362866.m3u8
+#EXTINF:-1,24/7 MUSIC 20
+http://xtv.ooo:8080/live/milon555/milon555/362867.m3u8
+#EXTINF:-1,24/7 MUSIC 21
+http://xtv.ooo:8080/live/milon555/milon555/362868.m3u8
+#EXTINF:-1,IN: 24/7 MUSIC 01
+http://xtv.ooo:8080/live/milon555/milon555/219498.m3u8
+#EXTINF:-1,IN: 24/7 MUSIC 02
+http://xtv.ooo:8080/live/milon555/milon555/270503.m3u8
+#EXTINF:-1,IN: 24/7 MUSIC 03
+http://xtv.ooo:8080/live/milon555/milon555/270504.m3u8
+#EXTINF:-1,24/7 MUSIC 04
+http://xtv.ooo:8080/live/milon555/milon555/270505.m3u8
+#EXTINF:-1,24/7 MUSIC 05
+http://xtv.ooo:8080/live/milon555/milon555/270506.m3u8
+#EXTINF:-1,24/7 MUSIC 06
+http://xtv.ooo:8080/live/milon555/milon555/270507.m3u8
+#EXTINF:-1,24/7 MUSIC 07
+http://xtv.ooo:8080/live/milon555/milon555/270508.m3u8
+#EXTINF:-1,24/7 MUSIC 08
+http://xtv.ooo:8080/live/milon555/milon555/270509.m3u8
+#EXTINF:-1,24/7 MUSIC 09
+http://xtv.ooo:8080/live/milon555/milon555/270510.m3u8
+#EXTINF:-1,24/7 MUSIC 10
+http://xtv.ooo:8080/live/milon555/milon555/270511.m3u8
+#EXTINF:-1,24/7 MUSIC 11
+http://xtv.ooo:8080/live/milon555/milon555/270512.m3u8
+#EXTINF:-1,24/7 MUSIC 12
+http://xtv.ooo:8080/live/milon555/milon555/270513.m3u8
+#EXTINF:-1,24/7 MUSIC 13
+http://xtv.ooo:8080/live/milon555/milon555/270514.m3u8
+#EXTINF:-1,24/7 MUSIC 14
+http://xtv.ooo:8080/live/milon555/milon555/270515.m3u8
+#EXTINF:-1,24/7 MUSIC 15
+http://xtv.ooo:8080/live/milon555/milon555/270516.m3u8
+#EXTINF:-1,24/7 MUSIC 16
+http://xtv.ooo:8080/live/milon555/milon555/270517.m3u8
+#EXTINF:-1,24/7 MUSIC 17
+http://xtv.ooo:8080/live/milon555/milon555/270518.m3u8
+#EXTINF:-1,DOC | NAT GEO WILD Safari
+http://xtv.ooo:8080/live/milon555/milon555/363003.m3u8
+#EXTINF:-1,DOC | Nat Geo Wild and Worlds Deadliest
+http://xtv.ooo:8080/live/milon555/milon555/363004.m3u8
+#EXTINF:-1,DOC | Nat Geo Wild Newest Clips
+http://xtv.ooo:8080/live/milon555/milon555/363005.m3u8
+#EXTINF:-1,DOC | Nat Geo Wild NEWS
+http://xtv.ooo:8080/live/milon555/milon555/363006.m3u8
+#EXTINF:-1,DOC | Wildlife HINDI
+http://xtv.ooo:8080/live/milon555/milon555/363002.m3u8
+#EXTINF:-1,IN: Dangal 2
+http://xtv.ooo:8080/live/milon555/milon555/356002.m3u8
+#EXTINF:-1,IN: Dangal
+http://xtv.ooo:8080/live/milon555/milon555/355655.m3u8
+#EXTINF:-1,IND: DHINCHAAK
+http://xtv.ooo:8080/live/milon555/milon555/374980.m3u8
+#EXTINF:-1,IN: Manoranjan Grand
+http://xtv.ooo:8080/live/milon555/milon555/355999.m3u8
+#EXTINF:-1,IN: B4U Bhojpuri
+http://xtv.ooo:8080/live/milon555/milon555/355988.m3u8
+#EXTINF:-1,IN: Shemaroo TV
+http://xtv.ooo:8080/live/milon555/milon555/355809.m3u8
+#EXTINF:-1,IN: Colors Infinity FHD
+http://xtv.ooo:8080/live/milon555/milon555/355571.m3u8
+#EXTINF:-1,•●★--- Welcome ----★●•
+http://xtv.ooo:8080/live/milon555/milon555/244361.m3u8
+#EXTINF:-1,IND:PB:  PB: PTC Punjabi
+http://xtv.ooo:8080/live/milon555/milon555/244362.m3u8
+#EXTINF:-1,IND: PB: Pop Pataka HD
+http://xtv.ooo:8080/live/milon555/milon555/244363.m3u8
+#EXTINF:-1,IND: PB: Brit Asia
+http://xtv.ooo:8080/live/milon555/milon555/244364.m3u8
+#EXTINF:-1,IND: MH1 Prime
+http://xtv.ooo:8080/live/milon555/milon555/244365.m3u8
+#EXTINF:-1,IND:PB:  PTC Gold
+http://xtv.ooo:8080/live/milon555/milon555/244366.m3u8
+#EXTINF:-1,IND: PB: Sangat TV
+http://xtv.ooo:8080/live/milon555/milon555/244367.m3u8
+#EXTINF:-1,IND:PB: PTC Chak De
+http://xtv.ooo:8080/live/milon555/milon555/244368.m3u8
+#EXTINF:-1,IND: Jus Punjabi
+http://xtv.ooo:8080/live/milon555/milon555/244369.m3u8
+#EXTINF:-1,IND:PB:  PTC News
+http://xtv.ooo:8080/live/milon555/milon555/244370.m3u8
+#EXTINF:-1,IND:PB: Pitara
+http://xtv.ooo:8080/live/milon555/milon555/244371.m3u8
+#EXTINF:-1,IND: PB: Desi Channel
+http://xtv.ooo:8080/live/milon555/milon555/244372.m3u8
+#EXTINF:-1,IND: HINDI_Chakde TV HD
+http://xtv.ooo:8080/live/milon555/milon555/244373.m3u8
+#EXTINF:-1,IND:PB: mh1_Shraddha
+http://xtv.ooo:8080/live/milon555/milon555/244374.m3u8
+#EXTINF:-1,IND:PB: Living_India_News
+http://xtv.ooo:8080/live/milon555/milon555/244375.m3u8
+#EXTINF:-1,IND:PB: JUSOne
+http://xtv.ooo:8080/live/milon555/milon555/244376.m3u8
+#EXTINF:-1,IND:PB: JUS24x7
+http://xtv.ooo:8080/live/milon555/milon555/244377.m3u8
+#EXTINF:-1,IND:PB: Chardikla_Time_TV
+http://xtv.ooo:8080/live/milon555/milon555/244378.m3u8
+#EXTINF:-1,IND:PB:  PTC Simran
+http://xtv.ooo:8080/live/milon555/milon555/244379.m3u8
+#EXTINF:-1,IND: PB: Hulchul TV
+http://xtv.ooo:8080/live/milon555/milon555/244380.m3u8
+#EXTINF:-1,IND:PB: PTC Dhol
+http://xtv.ooo:8080/live/milon555/milon555/244381.m3u8
+#EXTINF:-1,IND:PB: PTC Music
+http://xtv.ooo:8080/live/milon555/milon555/244382.m3u8
+#EXTINF:-1,IND:PB: Balle Balle
+http://xtv.ooo:8080/live/milon555/milon555/244383.m3u8
+#EXTINF:-1,IND:PB: Wah Punjabi
+http://xtv.ooo:8080/live/milon555/milon555/244384.m3u8
+#EXTINF:-1,IND:PB: World Punjab
+http://xtv.ooo:8080/live/milon555/milon555/244385.m3u8
+#EXTINF:-1,IND:PB: Gurkebaani
+http://xtv.ooo:8080/live/milon555/milon555/244386.m3u8
+#EXTINF:-1,IND: PB: Garv Gurbani
+http://xtv.ooo:8080/live/milon555/milon555/244387.m3u8
+#EXTINF:-1,IND: PB: Gaunda Punjab TV
+http://xtv.ooo:8080/live/milon555/milon555/244388.m3u8
+#EXTINF:-1,IND:PB: Only Music
+http://xtv.ooo:8080/live/milon555/milon555/244389.m3u8
+#EXTINF:-1,IND:PB: ITV 24
+http://xtv.ooo:8080/live/milon555/milon555/244390.m3u8
+#EXTINF:-1,IND: PB: SWAG SADDA VAKRAA
+http://xtv.ooo:8080/live/milon555/milon555/244391.m3u8
+#EXTINF:-1,IND: PTC News (Sling)
+http://xtv.ooo:8080/live/milon555/milon555/244392.m3u8
+#EXTINF:-1,IND: PB: 7X Music HD
+http://xtv.ooo:8080/live/milon555/milon555/244393.m3u8
+#EXTINF:-1,IND: PB: Punjab Plus HD
+http://xtv.ooo:8080/live/milon555/milon555/244394.m3u8
+#EXTINF:-1,IND: PB: News Only
+http://xtv.ooo:8080/live/milon555/milon555/244395.m3u8
+#EXTINF:-1,IND: PB: Sri Patna Sahib
+http://xtv.ooo:8080/live/milon555/milon555/244396.m3u8
+#EXTINF:-1,IND: PB: Punjab1 TV
+http://xtv.ooo:8080/live/milon555/milon555/244397.m3u8
+#EXTINF:-1,IND: PB: Sangat TV
+http://xtv.ooo:8080/live/milon555/milon555/244398.m3u8
+#EXTINF:-1,IND: PB: Punjab Plus HD
+http://xtv.ooo:8080/live/milon555/milon555/244399.m3u8
+#EXTINF:-1,IND: PB: Steelbird Music
+http://xtv.ooo:8080/live/milon555/milon555/244400.m3u8
+#EXTINF:-1,IND: PB: Rangrez TV
+http://xtv.ooo:8080/live/milon555/milon555/244401.m3u8
+#EXTINF:-1,IND: PB: Hamdard TV
+http://xtv.ooo:8080/live/milon555/milon555/244402.m3u8
+#EXTINF:-1,IND: PB: Parvasi TV
+http://xtv.ooo:8080/live/milon555/milon555/244403.m3u8
+#EXTINF:-1,IND:PB: PBN Music
+http://xtv.ooo:8080/live/milon555/milon555/244404.m3u8
+#EXTINF:-1,IND: Jus Punjabi ( SLING )
+http://xtv.ooo:8080/live/milon555/milon555/244405.m3u8
+#EXTINF:-1,IND: Garv Punjab ( SLING )
+http://xtv.ooo:8080/live/milon555/milon555/244406.m3u8
+#EXTINF:-1,IND: Garv Punjab
+http://xtv.ooo:8080/live/milon555/milon555/244407.m3u8
+#EXTINF:-1,IND: PTC Punjabi ( SLING )
+http://xtv.ooo:8080/live/milon555/milon555/244408.m3u8
+#EXTINF:-1,IND: PTC Simran ( SLING )
+http://xtv.ooo:8080/live/milon555/milon555/244409.m3u8
+#EXTINF:-1,IND: PTC Punjabi Gold ( SLING )
+http://xtv.ooo:8080/live/milon555/milon555/244410.m3u8
+#EXTINF:-1,IND: PTC Dhol TV ( SLING )
+http://xtv.ooo:8080/live/milon555/milon555/244411.m3u8
+#EXTINF:-1,IND: News18 Punjab Haryana HP
+http://xtv.ooo:8080/live/milon555/milon555/244413.m3u8
+#EXTINF:-1,IND: DD Punjabi
+http://xtv.ooo:8080/live/milon555/milon555/244414.m3u8
+#EXTINF:-1,IND: Zee Punjabi
+http://xtv.ooo:8080/live/milon555/milon555/244415.m3u8
+#EXTINF:-1,IND: Etc Punjabi
+http://xtv.ooo:8080/live/milon555/milon555/244416.m3u8
+#EXTINF:-1,IND: Zee Punjab Haryana Himachal Pradesh
+http://xtv.ooo:8080/live/milon555/milon555/244417.m3u8
+#EXTINF:-1,IN: PTC Punjabi Gold
+http://xtv.ooo:8080/live/milon555/milon555/355565.m3u8
+#EXTINF:-1,IN: Fateh TV
+http://xtv.ooo:8080/live/milon555/milon555/355695.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,***KIDS***
+http://xtv.ooo:8080/live/milon555/milon555/106148.m3u8
+#EXTINF:-1,IN: Cartoon Network
+http://xtv.ooo:8080/live/milon555/milon555/150478.m3u8
+#EXTINF:-1,IN: Pogo
+http://xtv.ooo:8080/live/milon555/milon555/150483.m3u8
+#EXTINF:-1,IN: Cartoon Network HD+
+http://xtv.ooo:8080/live/milon555/milon555/153154.m3u8
+#EXTINF:-1,IN | Sony yay
+http://xtv.ooo:8080/live/milon555/milon555/26187.m3u8
+#EXTINF:-1,IN: Hungama**
+http://xtv.ooo:8080/live/milon555/milon555/150480.m3u8
+#EXTINF:-1,IN: Nick
+http://xtv.ooo:8080/live/milon555/milon555/150482.m3u8
+#EXTINF:-1,IND: Nick Junior
+http://xtv.ooo:8080/live/milon555/milon555/153156.m3u8
+#EXTINF:-1,Discovery kids
+http://xtv.ooo:8080/live/milon555/milon555/76723.m3u8
+#EXTINF:-1,IN: Disney Junior
+http://xtv.ooo:8080/live/milon555/milon555/153175.m3u8
+#EXTINF:-1,KIDS: Chutti Tv
+http://xtv.ooo:8080/live/milon555/milon555/150479.m3u8
+#EXTINF:-1,IN | DISNEY HD
+http://xtv.ooo:8080/live/milon555/milon555/167551.m3u8
+#EXTINF:-1,IN: NICK SONIC
+http://xtv.ooo:8080/live/milon555/milon555/34011.m3u8
+#EXTINF:-1,NICK HD+ [FHD]
+http://xtv.ooo:8080/live/milon555/milon555/76722.m3u8
+#EXTINF:-1,PK | Kids Zone+ HD
+http://xtv.ooo:8080/live/milon555/milon555/383066.m3u8
+#EXTINF:-1,24/7 MOTU PATLU 01
+http://xtv.ooo:8080/live/milon555/milon555/307079.m3u8
+#EXTINF:-1,24/7 MOTU PATLU 02
+http://xtv.ooo:8080/live/milon555/milon555/311373.m3u8
+#EXTINF:-1,24/7 SHIVA
+http://xtv.ooo:8080/live/milon555/milon555/342074.m3u8
+#EXTINF:-1,24/7 CHUCHU TV 
+http://xtv.ooo:8080/live/milon555/milon555/340807.m3u8
+#EXTINF:-1,24/7 Baal Veer 
+http://xtv.ooo:8080/live/milon555/milon555/340809.m3u8
+#EXTINF:-1,24/7 Chacha Bhatija
+http://xtv.ooo:8080/live/milon555/milon555/311774.m3u8
+#EXTINF:-1,24/7 Wow Kids Action
+http://xtv.ooo:8080/live/milon555/milon555/314753.m3u8
+#EXTINF:-1,24/7 Vir The Robot Boy
+http://xtv.ooo:8080/live/milon555/milon555/314754.m3u8
+#EXTINF:-1,KIDS: PINK PANTHER 24/7
+http://xtv.ooo:8080/live/milon555/milon555/301503.m3u8
+#EXTINF:-1,KIDS: CHU CHU TV 24/7
+http://xtv.ooo:8080/live/milon555/milon555/301502.m3u8
+#EXTINF:-1,KIDS: Sonic 24/7
+http://xtv.ooo:8080/live/milon555/milon555/301500.m3u8
+#EXTINF:-1,KIDS: MR BEAN (CARTOON) 24/7
+http://xtv.ooo:8080/live/milon555/milon555/301501.m3u8
+#EXTINF:-1,KIDS: CoComelon TV 24/7
+http://xtv.ooo:8080/live/milon555/milon555/301499.m3u8
+#EXTINF:-1,24/7 Kids: All Hail King Julien_ Exiled
+http://xtv.ooo:8080/live/milon555/milon555/301504.m3u8
+#EXTINF:-1,24/7 Kids: Rick And Morty
+http://xtv.ooo:8080/live/milon555/milon555/301505.m3u8
+#EXTINF:-1,24/7 Kids: Masha and the Bear
+http://xtv.ooo:8080/live/milon555/milon555/301506.m3u8
+#EXTINF:-1,24/7 Kids: Little Baby Bum
+http://xtv.ooo:8080/live/milon555/milon555/301507.m3u8
+#EXTINF:-1,24/7 Kids: The Boss Baby_ Back in Business
+http://xtv.ooo:8080/live/milon555/milon555/301508.m3u8
+#EXTINF:-1,24/7 Kids: Peppa Pig
+http://xtv.ooo:8080/live/milon555/milon555/301509.m3u8
+#EXTINF:-1,24/7 Kids: Blippi
+http://xtv.ooo:8080/live/milon555/milon555/301510.m3u8
+#EXTINF:-1,24/7 Kids: Kids: Gabby_s Dollhouse
+http://xtv.ooo:8080/live/milon555/milon555/301511.m3u8
+#EXTINF:-1,Oggy and the Cockroaches Hindi
+http://xtv.ooo:8080/live/milon555/milon555/308282.m3u8
+#EXTINF:-1,24/7 Chhota Bheem
+http://xtv.ooo:8080/live/milon555/milon555/315401.m3u8
+#EXTINF:-1,24/7 Tom & Jerry
+http://xtv.ooo:8080/live/milon555/milon555/329247.m3u8
+#EXTINF:-1,24/7 Scooby-Doo
+http://xtv.ooo:8080/live/milon555/milon555/329248.m3u8
+#EXTINF:-1,24/7 Booba
+http://xtv.ooo:8080/live/milon555/milon555/340803.m3u8
+#EXTINF:-1,24/7 KIDS SONGS HINDI
+http://xtv.ooo:8080/live/milon555/milon555/340802.m3u8
+#EXTINF:-1,24/7 BabyBus | Nursery Rhymes
+http://xtv.ooo:8080/live/milon555/milon555/340804.m3u8
+#EXTINF:-1,24/7 KIDS | MOV HINDI
+http://xtv.ooo:8080/live/milon555/milon555/362998.m3u8
+#EXTINF:-1,24/7 KIDS | MOVIES
+http://xtv.ooo:8080/live/milon555/milon555/362999.m3u8
+#EXTINF:-1,24/7 KIDS | MOVIES ENG 01
+http://xtv.ooo:8080/live/milon555/milon555/363000.m3u8
+#EXTINF:-1,24/7 KIDS | MOVIES ENG 02
+http://xtv.ooo:8080/live/milon555/milon555/363001.m3u8
 
